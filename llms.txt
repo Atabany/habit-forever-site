@@ -1,0 +1,32 @@
+# Habit Forever
+
+> Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed Elatabany. Track check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated 5.0★ on the App Store, from 4 ratings, and is currently listed there as “Habit Streak Tracker: Routines”.
+
+- App Store: https://apps.apple.com/app/id6751973572
+- Website: https://habitforever.app/
+- Developer: Mohamed Elatabany (https://habitforever.app/about.html)
+- Support: atabany.apps@gmail.com
+
+## Guides
+- [Habit Tracker Widget for iPhone: Home and Lock Screen](https://habitforever.app/guides/habit-tracker-widget-iphone.html): How to add a habit tracker widget to your iPhone Home Screen or Lock Screen in iOS 17, 18 and 26, and check in on a habit with one tap.
+- [How Long Does It Take to Form a Habit? (Not 21 Days)](https://habitforever.app/guides/how-long-to-form-a-habit.html): Research puts the median at about 59 to 66 days, with a huge range from a few days to almost a year. What the studies found and why 21 days is a myth.
+- [How to Track Habits on iPhone: 4 Ways, Built-in First](https://habitforever.app/guides/how-to-track-habits-on-iphone.html): Track habits on iPhone with Reminders, Calendar, Notes or paper, or use a dedicated habit tracker for streaks, goals and widgets. Honest pros and cons.
+- [Missed a Day? What a Broken Habit Streak Really Means](https://habitforever.app/guides/missed-a-day-habit-streak.html): Missing one day does not undo a habit. What research says about a broken streak, the never-miss-twice rule, and why consistency beats a perfect streak.
+- [Private Habit Tracker With No Account: What to Check](https://habitforever.app/guides/private-habit-tracker-no-account.html): Find a private iPhone habit tracker with no account that works offline: read the privacy label, check sync and export, know the trade-offs.
+- [How to Track Water Intake on iPhone (Health App or a Habit)](https://habitforever.app/guides/track-water-intake-iphone.html): Log water on iPhone in the Health app under Nutrition, or track glasses as a daily habit with a target, a one-tap widget and Siri. Steps for both.
+
+## Comparisons
+- [Best Habit Tracker Apps for iPhone (2026), Compared](https://habitforever.app/compare/best-habit-tracker-apps-iphone.html): A fair comparison of 9 iPhone habit trackers in 2026: Streaks, HabitKit, Habitify, Habits, Way of Life, Habitica, Everyday, Strides, Habit Forever.
+- [HabitKit Alternative: A Fair Look at Habit Forever](https://habitforever.app/compare/habitkit-alternative.html): HabitKit is a great visual habit tracker. Here is how Habit Forever compares as a HabitKit alternative: limits and ranges, monthly targets, Siri, widgets.
+- [Loop Habit Tracker for iPhone? The iOS Alternatives](https://habitforever.app/compare/loop-habit-tracker-iphone.html): Loop Habit Tracker is Android only, with no official iOS app. These iPhone habit trackers offer a similar grid and need no account.
+- [Streaks App Alternative: When to Switch (and When Not)](https://habitforever.app/compare/streaks-app-alternative.html): Streaks is excellent for Apple Watch and Health users. Here is when it is the better choice, and when a Streaks alternative like Habit Forever fits better.
+
+## Tools
+- [How Long to Form a Habit? Free Calculator (66-Day Rule)](https://habitforever.app/tools/habit-formation-calculator.html): Enter your start date to see when a new habit typically becomes automatic, based on research: median 66 days, range 18–254 days.
+- [Printable Habit Tracker (Free Monthly PDF Grid)](https://habitforever.app/tools/printable-habit-tracker.html): Make a free printable monthly habit tracker: add your habits, pick a month, then print it or save it as a PDF. No sign-up, nothing uploaded.
+
+## About and policies
+- [About Habit Forever and Its Developer](https://habitforever.app/about.html): Habit Forever is made by Mohamed Elatabany, an independent iOS developer. How the app is built, how these guides are written, and how to get in touch.
+- [Habit Forever Privacy Policy](https://habitforever.app/privacy.html): Habit Forever has no account and stores your habits on your device. What data the app and its payment provider handle, and your choices.
+- [Habit Forever Support and Help](https://habitforever.app/support.html): Help with Habit Forever: restore purchases, cancel a subscription, back up and move habits, reminders, widgets, and how to contact the developer.
+- [Habit Forever Terms of Use](https://habitforever.app/terms.html): Terms of use for the Habit Forever app: the license, Pro subscriptions and lifetime purchase, auto-renewal, your data, and limits of liability.
