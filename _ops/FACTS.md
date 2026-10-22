@@ -3,15 +3,16 @@
 Every page reuses this wording. Never invent ratings, reviews, awards, stats or claims ("AI-powered", "#1").
 Never print prices. Never mention the developer's other apps.
 
-- Name: **Habit Forever**. Currently listed on the App Store as "Habit Streak Tracker: Routines"
-  (renaming to Habit Forever with version 4.0). App Store id 6751973572.
+- Name: **Habit Forever**. App Store name "Habit Forever: Streak Tracker" from 4.0 (submitted
+  2026-10-22); formerly "Habit Streak Tracker: Routines", Home Screen "Habit Tracker". App Store id 6751973572.
   Canonical URL (JSON-LD/llms only): https://apps.apple.com/app/id6751973572
 - Developer: Mohamed Elatabany (independent developer). Support: atabany.apps@gmail.com
 - Platforms: iPhone and iPad, iOS 17 or later. English.
 - Habits: check-off habits, or number habits (pages, glasses, minutes, distance, spending or your own unit).
 - Goals: a minimum, a maximum (limits for habits you want less of) or a target range; daily, weekly or monthly
   targets; every day or chosen days.
-- Reminders per habit; notes on check-ins; fill in past days; archive a habit and keep its history.
+- Three Today layouts (Grid, Board, Week). Reminders per habit that stay quiet on days already checked in;
+  milestone celebrations; notes on check-ins (kept in the habit history; no journal); fill in a missed day from the last 7 days; archive a habit and keep its history.
 - Progress: current and best streak, consistency, and colorful day-by-day grids (GitHub-style contribution
   grids) for each habit; progress across all habits.
 - Home Screen and Lock Screen widgets (check in from the widget). Siri and Shortcuts: "Check In Habit"
@@ -39,4 +40,5 @@ Elatabany. Track check-off or number habits with goals, reminders, notes, streak
 grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays
 on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime
 purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated
-5.0★ on the App Store, from 4 ratings, and is currently listed there as "Habit Streak Tracker: Routines".
+5.0★ on the App Store, from 4 ratings, where it is listed as "Habit Forever: Streak Tracker" (formerly
+"Habit Streak Tracker: Routines").

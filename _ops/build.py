@@ -24,7 +24,8 @@ BASE = "https://habitforever.app/"
 APP_ID, PROVIDER = "6751973572", "127826363"
 STORE_URL = f"https://apps.apple.com/app/id{APP_ID}"
 NAME = "Habit Forever"
-STORE_NAME = "Habit Streak Tracker: Routines"
+STORE_NAME = "Habit Forever: Streak Tracker"
+FORMER_NAME = "Habit Streak Tracker: Routines"
 AUTHOR = "Mohamed Elatabany"
 UPDATED = "2026-10-22"
 CSS_VERSION = 1
@@ -36,8 +37,8 @@ FACT_BLOCK = (
     "day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and "
     "habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or "
     "a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup "
-    f"export/import. It is rated {RATING}★ on the App Store, from {RATING_COUNT} ratings, and is currently "
-    f"listed there as “{STORE_NAME}”."
+    f"export/import. It is rated {RATING}★ on the App Store, from {RATING_COUNT} ratings, where it is listed as "
+    f"“{STORE_NAME}” (formerly “{FORMER_NAME}”)."
 )
 
 SECTIONS = {"guides": "Guides", "compare": "Compare", "tools": "Tools"}
@@ -162,13 +163,13 @@ def page(rel, meta, body):
     graph = [{"@type": "Person", "@id": BASE + "about.html#author", "name": AUTHOR, "url": BASE + "about.html",
               "jobTitle": "Independent iOS developer"}]
     app_node = {
-        "@type": "MobileApplication", "@id": BASE + "#app", "name": NAME, "alternateName": STORE_NAME,
+        "@type": "MobileApplication", "@id": BASE + "#app", "name": NAME, "alternateName": [STORE_NAME, FORMER_NAME],
         "description": "Habit tracker for iPhone and iPad: check-off or number habits, goals, reminders, notes, "
                        "streaks, colorful day-by-day grids and widgets. No account; data stays on your device.",
         "operatingSystem": "iOS 17.0 or later", "applicationCategory": "LifestyleApplication",
         "applicationSubCategory": "Habit tracker", "url": BASE, "downloadUrl": STORE_URL, "installUrl": STORE_URL,
         "image": BASE + "assets/icon-512.png",
-        "screenshot": [BASE + f"assets/screen-{s}.webp" for s in ("today", "detail", "progress", "widgets")],
+        "screenshot": [BASE + f"assets/screen-{s}.webp" for s in ("today", "board", "log", "detail", "progress")],
         "inLanguage": "en", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
         "aggregateRating": {"@type": "AggregateRating", "ratingValue": RATING, "ratingCount": str(RATING_COUNT),
                             "bestRating": "5", "worstRating": "1"},
