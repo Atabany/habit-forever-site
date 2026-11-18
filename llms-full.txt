@@ -396,7 +396,7 @@ The right habit tracker depends on what you need most: Apple Watch support, sync
 
  | Strides | Free with in-app purchases | — | Habits and goals; habit, target, average and milestone trackers | Mixing habits with bigger goals
 
- | Habit Forever | Free for 3 habits + Pro (yearly, monthly or lifetime) | No (on device) | Number goals with minimum, maximum or range; contribution grids; widgets; Siri | Number habits and limits, privately
+ | Habit Forever | Free for 3 habits + Pro (yearly, monthly or lifetime) | No (on device) | Number goals to reach or stay under, per day or week; contribution grids; widgets; Siri | Number habits and limits, privately
 
 "—" means we could not confirm the detail. Check the app's App Store page.
 
@@ -2210,7 +2210,7 @@ We make Habit Forever, a habit tracker for iPhone and iPad. Water is one of its 
 
 - In the app: tap the habit to add a glass, or open it to type a different amount.
 
-- From a widget: add the Habit widget to your Home Screen or Lock Screen and tap its check-in button. Each tap logs your one-tap amount. See how to add a habit tracker widget.
+- From a widget: add the Habit widget to your Home Screen or Lock Screen and tap its check-in button to check in without opening the app; for a number habit, a tap logs your one-tap amount. To add several glasses in a row, use the app or Siri. See how to add a habit tracker widget.
 
 - With Siri or Shortcuts: the "Check In Habit" action accepts an optional amount and note, so you can log 2 glasses by voice or build a Shortcut for your water bottle. See how to log habits with Siri and Shortcuts.
 
@@ -2252,7 +2252,7 @@ Does iPhone have a built-in water tracker?
 Yes, the Health app has a Water data type under Nutrition where you can tap Add Data to log each drink, although it has no daily goal or reminders.
 
 Can I log water from my iPhone Lock Screen?
-Yes, with a habit tracker that has interactive Lock Screen widgets, such as Habit Forever, you can tap the widget to log a glass without opening the app.
+Yes, with a habit tracker that has interactive Lock Screen widgets, such as Habit Forever, you can check in on your water habit from the widget without opening the app, and log extra glasses in the app or with Siri.
 
 Does Habit Forever sync water with Apple Health?
 No, Habit Forever does not integrate with Apple Health, so water logged in the app stays in the app.

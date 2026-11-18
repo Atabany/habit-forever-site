@@ -55,7 +55,7 @@ h3 { font-size: 1.18rem; margin: 1.6em 0 .4em; }
   body.has-app-bar { padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
   .app-bar { display: grid; grid-template-columns: 40px 1fr auto; align-items: center; gap: 10px; position: fixed; z-index: 20;
     left: 0; right: 0; bottom: 0; padding: 10px max(16px, env(safe-area-inset-right)) calc(10px + env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left));
-    background: color-mix(in srgb, var(--card) 92%, transparent); backdrop-filter: saturate(1.4) blur(14px); -webkit-backdrop-filter: saturate(1.4) blur(14px);
+    background: var(--card); background: color-mix(in srgb, var(--card) 92%, transparent); backdrop-filter: saturate(1.4) blur(14px); -webkit-backdrop-filter: saturate(1.4) blur(14px);
     border-top: 1px solid var(--line); box-shadow: 0 -6px 24px rgba(28,25,23,.08);
     transform: translateY(110%); transition: transform .28s cubic-bezier(.2,.8,.2,1); }
   .app-bar[hidden] { display: none; }
@@ -67,7 +67,8 @@ h3 { font-size: 1.18rem; margin: 1.6em 0 .4em; }
   .app-bar-text .stars { display: inline; font-size: .78rem; letter-spacing: 0; }
   .app-bar .badge-link img { height: 40px; width: auto; }
 }
-@media (max-width: 340px) { .app-bar-text > span { display: none; } }
+@media (max-width: 389px) { .app-bar-free { display: none; } }
+@media (max-width: 319px) { .app-bar-text > span { display: none; } }
 @media (prefers-reduced-motion: reduce) { .app-bar { transition: none; } }
 @media print { .app-bar { display: none !important; } }
 
@@ -94,7 +95,8 @@ h3 { font-size: 1.18rem; margin: 1.6em 0 .4em; }
 .store-note { font-size: .9rem; color: var(--muted); margin: 6px 0 0; }
 .rating { margin: 6px 0 0; color: var(--muted); font-size: .95rem; }
 .stars { color: #f2a33a; letter-spacing: 1px; }
-.stars[style*="--fill"] { background: linear-gradient(90deg, #f2a33a var(--fill), color-mix(in srgb, #f2a33a 28%, var(--empty)) var(--fill));
+.stars[style*="--fill"] { background: linear-gradient(90deg, #f2a33a var(--fill), #e8dccb var(--fill));
+  background: linear-gradient(90deg, #f2a33a var(--fill), color-mix(in srgb, #f2a33a 28%, var(--empty)) var(--fill));
   -webkit-background-clip: text; background-clip: text; color: transparent; }
 @media (forced-colors: active) { .stars[style*="--fill"] { color: CanvasText; background: none; } }
 .hero-visual { position: relative; display: flex; justify-content: center; }
