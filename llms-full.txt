@@ -445,7 +445,7 @@ Choose it if you track numbers and limits, want weekly targets, and prefer no ac
 
 ## Also worth knowing
 
-Loop Habit Tracker is a popular free, open-source tracker, but it is Android only. If you are coming from Loop, read Loop Habit Tracker for iPhone. If you would rather not use an app at all, see how to track habits on iPhone with built-in apps, or print our printable habit tracker. If you want to avoid a subscription, read habit trackers without a subscription.
+Loop Habit Tracker is a popular free, open-source tracker, but it is Android only. If you are coming from Loop, read Loop Habit Tracker for iPhone. If you would rather not use an app at all, see how to track habits on iPhone with built-in apps, or print our printable habit tracker. If you want to avoid a subscription, read habit trackers without a subscription. Looking for something that works with ADHD? See habit trackers for ADHD.
 
 ## FAQ
 
@@ -1188,6 +1188,115 @@ It builds on research into implementation intentions, if-then plans studied by P
 
 ---
 
+# A habit tracker for ADHD: what actually helps on iPhone
+URL: https://habitforever.app/guides/habit-tracker-for-adhd.html
+Updated: 2026-11-18
+
+The habit tracker that works best with ADHD is the one you can check in with in one tap, that reminds you without nagging, and that does not wipe out your progress after one missed day. Start with two or three habits, put them on your Lock Screen, and judge yourself by consistency over weeks, not by an unbroken streak.
+
+I make Habit Forever, a habit tracker for iPhone, and "I have ADHD and I have tried every habit app" is a story you will find all over forums and reviews. The pattern behind it is familiar. The app is exciting for a week, then a day gets missed, the streak resets, and the app quietly disappears into a folder. It is practical advice about tools, not medical advice; a habit tracker does not treat ADHD, and if you think you have it or your treatment isn't working, talk to a doctor.
+
+## Why habit trackers often fail with ADHD
+
+The US National Institute of Mental Health lists being forgetful in daily activities and having trouble organizing tasks among the inattention symptoms of ADHD, and notes that adults with ADHD may find it hard to stay organized and keep up with daily tasks. Ordinary habit apps ask for exactly those skills: remember to open the app, remember to log, keep a long list tidy. Four failure points come up again and again:
+
+- Too many habits on day one. Ten habits is ten decisions every evening.
+
+- Logging takes too long. If a check-in takes several taps inside an app, it loses to everything else on your phone.
+
+- Out of sight, out of mind. An app you have to remember to open relies on the very thing that is hard.
+
+- All-or-nothing streaks. One missed day, the counter shows zero, and months of effort look like they never happened.
+
+## What to look for in an ADHD-friendly habit tracker
+
+- One-tap check-ins from outside the app: a widget or a voice command, so logging takes a second.
+
+- Reminders that know when you are done, so you are not trained to swipe notifications away.
+
+- Rest days and weekly goals, so "3 times a week" is a success and not four failures.
+
+- A way to log a day you forgot, because doing the habit and remembering to record it are two different things.
+
+- A history that shows the big picture: a grid or a consistency figure where one gap is one empty square, not a reset.
+
+## Start with what is already on your iPhone
+
+If you only want one or two nudges a day, try the Reminders app first. Create a reminder such as "Take meds" or "Tidy desk", open its details, give it a time and set it to repeat daily or on the days you choose. Tick it off and it comes back tomorrow. Add the Reminders widget to your Home Screen so the list is visible without opening anything.
+
+That covers the nudge. What Reminders does not give you is any record: no streak, no count of how often you did it this month, no view of last week. Seeing "I did this 18 times this month" is often what keeps a habit going, and that is where a tracker earns its place. For a fuller comparison, see how to track habits on iPhone.
+
+## How I set up Habit Forever for an ADHD-friendly routine
+
+I designed Habit Forever to be quick and forgiving, and the free version covers the core of this setup. Here is how I would use it:
+
+- Pick three habits, no more. The free version tracks up to three, which is a useful limit in itself. Choose habits that take under five minutes at first: "meds", "put keys on the hook", "two minutes of tidying".
+
+- Put a habit on your Lock Screen. Add a Habit Forever widget to the Lock Screen or Home Screen and check in straight from the widget, without opening the app. Your first habit's widget is free; Pro adds a widget for every habit.
+
+- Set one reminder per habit. Reminders in Habit Forever stay quiet on days you have already checked in, so a notification always means "this still needs doing".
+
+- Use days off and weekly goals. Schedule a habit on weekdays or chosen days, and days off never break a streak. For things like exercise, use a weekly goal such as 3 times a week; the streak then counts weeks. See weekly habit goals.
+
+- Log by voice if your hands are full. The "Check In Habit" Siri and Shortcuts action logs a habit without opening the app; see how to log habits with Siri.
+
+- Fill in what you forgot. Did it yesterday but forgot to log? You can fill in a missed day from the last 7 days.
+
+Then look at the grid, not just the streak. Each habit has a colorful day-by-day grid and a consistency figure next to the current and best streak. Twenty-two filled squares out of thirty with a few gaps is a habit that is working, and the grid shows it that way.
+
+There is no account to create, and your habits and notes stay on your device.
+
+ 
+
+## Handling missed days without the shame spiral
+
+The best-known study of habit formation, by Phillippa Lally and colleagues at University College London, found that missing a single opportunity did not materially affect how automatic a behavior became. The streak counter resetting is a number changing; the habit you built is still there. A few rules that help:
+
+- Never miss twice. One missed day is noise. Aim to make the next day count, even with a tiny version of the habit.
+
+- Shrink, don't skip. On a bad day, one push-up or one page still counts. Number habits make this easy: log whatever amount you managed.
+
+- Record the truth. If you did it, fill it in. If you didn't, leave it blank. The gaps tell you which days or times are hard, which is useful information.
+
+- Drop a habit that isn't serving you. Archive it and keep its history, rather than letting it sit there as a daily reminder of failure.
+
+More on this in missed a day? What a broken streak really means.
+
+## When another tool fits better
+
+Habit Forever is a habit tracker, not a planner. If what you need is a visual timeline of your whole day, or a morning routine broken into steps with a timer for each one, a visual routine planner will suit you better. If you want habits that complete themselves from your Apple Watch or Apple Health, Habit Forever does not do that; Streaks does. And if you need your habits on Android or a computer too, choose a tracker with cross-platform sync. My comparison of habit tracker apps for iPhone covers the main options honestly.
+
+## FAQ
+
+What is the best habit tracker for ADHD?
+The best one is the tracker you can check in with in one tap, that reminds you without nagging and that does not erase your progress after one missed day; start with two or three habits and a Lock Screen widget.
+
+Do habit trackers help with ADHD?
+They can help you remember daily tasks and see your progress, but a habit tracker does not treat ADHD, so talk to a doctor about diagnosis and treatment.
+
+How many habits should I track with ADHD?
+Start with two or three small habits that take under five minutes, and add another only once those feel easy.
+
+What should I do when I break a streak?
+Do the habit again the next day, even a tiny version of it; research found a single missed opportunity did not materially affect habit formation.
+
+Is Habit Forever free?
+Yes, Habit Forever is free for up to three habits with core tracking, goals, reminders and notes, and Habit Forever Pro adds unlimited habits.
+
+## Sources
+
+- National Institute of Mental Health: Attention-Deficit/Hyperactivity Disorder
+
+- National Institute of Mental Health: ADHD in Adults: 4 Things to Know
+
+- Lally P, van Jaarsveld CHM, Potts HWW, Wardle J. How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 2010.
+
+- Apple Support: Create reminders on iPhone
+
+- Habit Forever on the App Store
+
+---
+
 # How to add a habit tracker widget to your iPhone
 URL: https://habitforever.app/guides/habit-tracker-widget-iphone.html
 Updated: 2026-10-22
@@ -1612,7 +1721,7 @@ It runs on iPhone and iPad with iOS 17 or later. It is free for up to three habi
 
 - Expect it to take a while. Research suggests habits take weeks to months to feel automatic, not 21 days. Our guide on how long it takes to form a habit explains the numbers.
 
-- Do not quit after a miss. One missed day does little harm; read what to do when you miss a day.
+- Do not quit after a miss. One missed day does little harm; read what to do when you miss a day. If you have ADHD, see how to set up a habit tracker for ADHD.
 
 ## Which method should you choose?
 
@@ -1662,6 +1771,8 @@ Clear, practical answers about building habits and tracking them on iPhone. Buil
 - GuideHow to build a reading habitBuild a reading habit with a small daily minimum in pages or minutes. Simple math from books per year to pages per day, plus how to track it on iPhone.
 
 - GuideHabit stacking: how it works and how to track itHabit stacking links a new habit to one you already do: "After I pour my coffee, I will write one line." Where the idea comes from and how to track it.
+
+- GuideA habit tracker for ADHD: what actually helps on iPhoneWhat makes a habit tracker work with ADHD: few habits, fast check-ins, reminders that stop once you're done, and no shame over a missed day. iPhone setup.
 
 - GuideHow to add a habit tracker widget to your iPhoneHow to add a habit tracker widget to your iPhone Home Screen or Lock Screen in iOS 17, 18 and 26, and check in on a habit with one tap.
 
@@ -1889,7 +2000,7 @@ Habit Forever is free for up to three habits, with no account, and your habit da
 
 Sometimes a run of misses is telling you something. If you keep missing the same habit, it may be too big, at the wrong time, or not something you really want. Shrink it, move it to a better cue, or archive it and keep its history while you focus on something else. Dropping a habit on purpose is a decision, not a failure.
 
-If you prefer pen and paper for a fresh start, try our printable habit tracker.
+If you prefer pen and paper for a fresh start, try our printable habit tracker. If streak resets hit especially hard because of ADHD, read what helps in a habit tracker for ADHD.
 
 ## FAQ
 
