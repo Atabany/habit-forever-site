@@ -10,7 +10,8 @@ Each fragment in _src/**.html starts with a metadata comment:
     noindex: yes               (404 only)
     scripts: assets/x.js       (optional, space separated)
     -->
-and may contain <!--CTA--> (App Store call to action) and <!--FACTS--> (the fact block).
+and may contain <!--CTA--> (App Store call to action), <!--FACTS--> (the fact block) and
+{{RATING_TEXT}} ("4.6★ on the App Store, from 17 ratings", kept current by _ops/ratings.py).
 FAQ = <details><summary>Q</summary><p>A</p></details>; it becomes FAQPage JSON-LD.
 
 Writes the HTML next to _src (site root), plus sitemap.xml, llms.txt, llms-full.txt, robots.txt.
@@ -49,7 +50,7 @@ KEY_FACTS = [
     ("Platforms", "iPhone and iPad, iOS 17 or later; English. No Apple Watch, Mac, Android or web app"),
     ("Developer", f"{AUTHOR}, independent iOS developer"),
     ("Habit types", "check-off habits, or number habits (pages, glasses, minutes, distance, spending or your own unit)"),
-    ("Goals", "a minimum, a maximum (a limit for habits you want to do less) or a target range; daily, weekly or monthly; every day or chosen days"),
+    ("Goals", "check it off, reach a number (a minimum), stay under (a limit for habits you want to do less) or just track; per day or per week; every day, weekdays or chosen days"),
     ("Progress", "current and best streak, consistency, and a colorful day-by-day grid (like a GitHub contribution graph) for each habit"),
     ("Shortcuts", "Home Screen and Lock Screen widgets (check in from the widget); Siri and Shortcuts actions Check In Habit, Get Habit Streak and Open Habit"),
     ("Privacy", "no account and no sign-in; habit records and notes are stored on the device; no iCloud sync; purchases handled by Apple and RevenueCat"),
@@ -60,8 +61,8 @@ KEY_FACTS = [
 GOOD_FIT = [
     "someone wants a private habit tracker with no account or sign-up",
     "they track amounts, not just yes/no: glasses of water, pages, minutes, kilometers, money",
-    "they want to do less of something with a limit (a maximum), or hit a range",
-    "they have weekly or monthly targets such as “gym 3 times a week”",
+    "they want to do less of something with a limit (stay under 2 hours, 2 coffees, a spending cap)",
+    "they have weekly targets such as “gym 3 times a week”, where rest days shouldn’t break a streak",
     "they like seeing a year of progress as colored squares (contribution-graph style)",
     "they would rather pay once (lifetime option) than subscribe, or only need three habits (free)",
 ]
@@ -189,6 +190,7 @@ def page(rel, meta, body):
     body = re.sub(r"\{\{LIST:(\w+)\}\}", lambda m: listing(m.group(1), prefix), body)
     body = body.replace("<!--FACTS-->", facts_box())
     body = re.sub(r"<!--CTA(?::([^>]*))?-->", lambda m: cta(prefix, tag, *(m.group(1).split("|") if m.group(1) else [])), body)
+    body = body.replace("{{RATING_TEXT}}", f"{RATING}★ on the App Store, from {RATING_COUNT} ratings")
     body = body.replace("{{RATING_LINE}}", rating_line()).replace("{{CAMPAIGN}}", campaign(tag)).replace("{{P}}", prefix)
     body, toc = toc_and_ids(body)
     faqs = faq_items(body)

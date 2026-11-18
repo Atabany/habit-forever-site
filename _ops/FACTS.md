@@ -9,7 +9,11 @@ Never print prices. Never mention the developer's other apps.
 - Developer: Mohamed Elatabany (independent developer). Support: atabany.apps@gmail.com
 - Platforms: iPhone and iPad, iOS 17 or later. English.
 - Habits: check-off habits, or number habits (pages, glasses, minutes, distance, spending or your own unit).
-- Goals: a minimum, a maximum (limits for habits you want less of) or a target range; daily, weekly or monthly
+- Goals (4.0 habit form, HabitFormView.swift, re-checked 2026-11-18): "Check it off", "Reach a number" (a minimum,
+  e.g. 8 glasses), "Stay under" (a maximum/limit for habits you want less of) or "Just track" (no goal, e.g. weight,
+  mood); reach and stay-under goals are per day or per week. NEVER claim target ranges or monthly targets: only
+  habits made in 3.x keep them. Days: every day, weekdays or chosen days ("Days off never break a streak").
+- (old wording, replaced:) goals daily, weekly or monthly
   targets; every day or chosen days.
 - Three Today layouts (Grid, Board, Week). Reminders per habit that stay quiet on days already checked in;
   milestone celebrations; notes on check-ins (kept in the habit history; no journal); fill in a missed day from the last 7 days; archive a habit and keep its history.

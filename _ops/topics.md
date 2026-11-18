@@ -16,16 +16,16 @@ Evidence: Google autocomplete observed 2026-10-22 (no volume data). Tick with th
 - [x] printable habit tracker — tools/printable-habit-tracker.html
 
 ## Next
-- [ ] habit tracker without subscription (answer honestly: free tier, lifetime option)
-- [ ] Habitify alternative
+- [x] habit tracker without subscription (answer honestly: free tier, lifetime option) — guides/habit-tracker-without-subscription.html (2026-11-18)
+- [x] Habitify alternative — compare/habitify-alternative.html (2026-11-18)
 - [ ] habit tracker without streaks / consistency over streaks
 - [ ] 21-day habit myth (if the main guide doesn't rank for it)
-- [ ] how to build a reading habit (number habit: pages)
-- [ ] how to quit a bad habit with a limit (max goal)
-- [ ] habit tracker Siri Shortcuts (log habits by voice)
+- [x] how to build a reading habit (number habit: pages) — guides/build-a-reading-habit.html (2026-11-18)
+- [x] how to quit a bad habit with a limit (max goal) — guides/track-a-habit-you-want-to-do-less.html (2026-11-18)
+- [x] habit tracker Siri Shortcuts (log habits by voice) — guides/log-habits-with-siri-shortcuts.html (2026-11-18)
 - [ ] morning routine checklist on iPhone
-- [ ] habit stacking (cite Clear / Fogg carefully as popular methods)
-- [ ] weekly habits: track "3 times a week" goals
+- [x] habit stacking (cite Clear / Fogg carefully as popular methods) — guides/habit-stacking.html (2026-11-18)
+- [x] weekly habits: track "3 times a week" goals — guides/weekly-habit-goals.html (2026-11-18)
 - [ ] how to track habits in iPhone Reminders vs an app
 - [ ] habit tracker for ADHD (careful, no medical claims)
 - [ ] Tool idea: year-in-squares image maker (shareable PNG with backlink)

@@ -85,7 +85,12 @@ h3 { font-size: 1.18rem; margin: 1.6em 0 .4em; }
 .film-toggle { position: absolute; right: 12px; bottom: 12px; font: 600 .85rem var(--font); color: #fff; background: rgba(20,18,16,.72);
   border: 1px solid rgba(255,255,255,.22); border-radius: 999px; padding: 8px 14px; cursor: pointer; backdrop-filter: blur(8px); }
 .film-toggle:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
-@media (max-width: 760px) { .film-grid { grid-template-columns: 1fr; } .film-frame { max-width: 320px; } }
+@media (max-width: 760px) {
+  .film-grid { grid-template-columns: 1fr; gap: 20px; }
+  .film-grid > div:first-child { display: contents; }   /* film right under the intro, chapters after it */
+  .film-band h2 { order: 1; margin-bottom: 0; } .film-band p { order: 2; margin: 0; }
+  .film-frame { order: 3; max-width: 320px; } .film-chapters { order: 4; margin: 4px 0 0; }
+}
 
 .band { padding: 56px 0; }
 .band.alt { background: var(--card); border-block: 1px solid var(--line); }

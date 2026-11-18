@@ -114,9 +114,9 @@ Every day you show up becomes a square. Streaks, your best run and your consiste
 
  
  
-- Set a minimum, a limit for things you want less of, or a target range
+- Reach a number (8 glasses, 20 pages), or stay under a limit for things you want less of
  
-- Daily, weekly or monthly goals, on every day or chosen days
+- Goals for each day or each week, on every day, weekdays or the days you choose
  
 - Add a note to any check-in, and fill in a missed day from the last seven days
  
@@ -297,7 +297,7 @@ No. There is no account or sign-in. Your habits, check-ins and notes are stored 
 No. Habit data stays on the device. With Pro you can export a backup file and import it on another iPhone or iPad.
 
  Can I track numbers, not just yes or no?
-Yes. A habit can be a simple check-off or a number such as glasses, pages, minutes, distance, spending or a unit you name, with a minimum, a maximum or a target range per day, week or month.
+Yes. A habit can be a simple check-off or a number such as glasses, pages, minutes, distance, spending or a unit you name, with a number to reach or a limit to stay under, per day or per week.
 
  Which devices does it run on?
 Habit Forever runs on iPhone and iPad with iOS 17 or later. There is no Apple Watch, Mac or Android version.
@@ -363,7 +363,7 @@ Until version 4.0 the app was listed on the App Store as “Habit Streak Tracker
 
 # The best habit tracker apps for iPhone in 2026
 URL: https://habitforever.app/compare/best-habit-tracker-apps-iphone.html
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 There is no single best habit tracker. Streaks suits Apple Watch and Health users, HabitKit and Habit Forever suit people who love a visual grid without an account, Habitify suits people on several platforms, and Habitica suits people who want a game.
 
@@ -423,7 +423,7 @@ Choose it if you want a clean, visual tracker. It is the closest app to Habit Fo
 
 Habitify runs on iOS, Android, Mac and the web, with an account (including Sign in with Apple) and cloud sync. It groups habits into areas and connects to Zapier and IFTTT. It is free with a subscription or lifetime upgrade.
 
-Choose it if you switch between devices that are not all Apple, or want automations.
+Choose it if you switch between devices that are not all Apple, or want automations. For a closer look, see our Habitify alternative page.
 
 ## (Not Boring) Habits
 
@@ -459,17 +459,17 @@ Choose it if you want to track a savings goal or a weight target next to daily h
 
 ## Habit Forever
 
-Habit Forever is our app, for iPhone and iPad on iOS 17 or later. It tracks check-off habits or number habits such as pages, glasses, minutes, distance or spending. Goals can be a minimum, a maximum for habits you want less of, or a target range, and can be daily, weekly or monthly, on every day or chosen days. Each habit has a current and best streak, a consistency figure, and a colorful day-by-day contribution grid. You can check in from Home Screen and Lock Screen widgets, or with Siri and Shortcuts.
+Habit Forever is our app, for iPhone and iPad on iOS 17 or later. It tracks check-off habits or number habits such as pages, glasses, minutes, distance or spending. Goals can be a number to reach or a limit to stay under for habits you want less of, per day or per week, on every day, weekdays or chosen days. Each habit has a current and best streak, a consistency figure, and a colorful day-by-day contribution grid. You can check in from Home Screen and Lock Screen widgets, or with Siri and Shortcuts.
 
 There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and JSON backup export and import. It is rated 4.6★ on the App Store, from 17 ratings, so it is still a young app.
 
 Where others are better: Habit Forever has no Apple Watch app, no Apple Health integration, no iCloud sync, no Android or web version, and no social features. If you need any of those, Streaks, Habitify or Habitica will serve you better.
 
-Choose it if you track numbers and limits, want weekly or monthly targets, and prefer no account.
+Choose it if you track numbers and limits, want weekly targets, and prefer no account.
 
 ## Also worth knowing
 
-Loop Habit Tracker is a popular free, open-source tracker, but it is Android only. If you are coming from Loop, read Loop Habit Tracker for iPhone. If you would rather not use an app at all, see how to track habits on iPhone with built-in apps, or print our printable habit tracker.
+Loop Habit Tracker is a popular free, open-source tracker, but it is Android only. If you are coming from Loop, read Loop Habit Tracker for iPhone. If you would rather not use an app at all, see how to track habits on iPhone with built-in apps, or print our printable habit tracker. If you want to avoid a subscription, read habit trackers without a subscription.
 
 ## FAQ
 
@@ -490,11 +490,146 @@ Streaks is paid upfront with no in-app purchases, and HabitKit, Habitify, Everyd
 
 ---
 
+# Looking for a Habitify alternative?
+URL: https://habitforever.app/compare/habitify-alternative.html
+Updated: 2026-11-18
+
+Habitify is the better choice if you need Android, Mac, web or Apple Watch, sync across devices, or integrations such as Apple Health and Zapier. Habit Forever may suit you better if you only use iPhone or iPad and want no account at all, data kept on your device, limits for habits you want less of, and a one-time lifetime option.
+
+Disclosure: I make Habit Forever. Habitify is a well-established app that does many things Habit Forever does not, so this page tries to be straight about both sides. I checked Habitify's details on its website, pricing page and App Store listing on 18 November 2026; where I could not confirm something, the table says "—". Plans and features change, so check Habitify's own pages before deciding.
+
+## What Habitify does well
+
+Habitify, by Unstatic Ltd Co, is one of the most complete habit trackers available.
+
+- Every platform. Its App Store listing covers iPhone, iPad, Mac, Apple Watch and Apple Vision, and its website adds Android and a web app.
+
+- Sync. Your habits sync across devices through your account, including Sign in with Apple.
+
+- Integrations. The App Store listing says it can log progress automatically from Apple Health, Google Health/Fit, Fitbit, Strava and Screen Time or RescueTime, with your consent. Its pricing page lists Apple and Google calendar integrations, an API, and automation through Zapier and IFTTT on its paid plan.
+
+- A full toolkit. Time-of-day sections for your routine, a built-in timer, notes, mood tracking, challenges with friends, Siri support, and reminders that can follow a habit stack or a location.
+
+- Languages. The App Store lists English and 39 other languages.
+
+On pricing, Habitify's pricing page shows a free plan (listed at 3 habits, with cross-platform sync) and a Premium plan billed annually or once as a lifetime purchase. The App Store listing shows Free, Plus and Pro tiers with monthly, yearly, lifetime and family purchases, and a recent release note says free users can now create more habits, with those beyond the basic limit view-only. The two sources describe the plans differently, so check in the app for what applies to you.
+
+## When Habitify is the better choice
+
+- You use Android, a Mac, the web or an Apple Watch, or switch between devices. Habit Forever runs only on iPhone and iPad and has no sync.
+
+- You want habits to complete themselves from Apple Health, Fitbit, Strava or Screen Time.
+
+- You want Zapier, IFTTT, calendar integration or an API.
+
+- You want a timer, mood tracking or challenges with friends inside your habit tracker.
+
+- You need the app in a language other than English. Habit Forever is in English only.
+
+If any of those matter, stay with Habitify. There is no point switching for a smaller feature set.
+
+## Why some people look for an alternative
+
+Common reasons are about simplicity and ownership: not wanting an account for a personal checklist, preferring data on the phone rather than a server, wanting to pay once rather than subscribe, or wanting fewer features and a calmer screen. Those are the areas where Habit Forever is different.
+
+## Habitify and Habit Forever side by side
+
+ | | | Habitify | Habit Forever
+
+ | Platforms | iPhone, iPad, Mac, Apple Watch, Apple Vision, Android, web | iPhone and iPad (iOS 17 or later)
+
+ | Account | Used for sync (Sign in with Apple available) | None
+
+ | Where data lives | Synced across your devices | On your device only (no iCloud sync)
+
+ | Apple Health and other integrations | Yes (Apple Health, Fitbit, Strava, Screen Time and more) | No
+
+ | Zapier, IFTTT, API | Yes | No
+
+ | Number habits | — | Yes, in any unit (pages, glasses, minutes, spending)
+
+ | Maximum goals (limits) | — | Yes, for habits you want less of
+
+ | Weekly goals | — | Yes, with streaks counted in weeks
+
+ | Day-by-day history grid | Yearly completion view | A colorful grid for each habit
+
+ | Siri | Yes | Yes: "Check In Habit" with optional amount and note, "Get Habit Streak", "Open Habit"
+
+ | Home Screen and Lock Screen widgets with check-in | — | Yes
+
+ | Timer, mood, challenges | Yes | No
+
+ | Languages | English and 39 others | English
+
+ | Free plan | Yes (see above) | Up to 3 habits, no time limit
+
+ | Paid options | Subscriptions and lifetime | Yearly, monthly or a one-time lifetime purchase
+
+ 
+
+## Where Habit Forever fits
+
+Habit Forever is a habit tracker for iPhone and iPad that I build on my own. It does fewer things than Habitify on purpose.
+
+### No account, on your device
+
+You open it and start. There is no sign-up, and habit records and notes are stored on your device. The trade-off is real: there is no sync, so it is a poor fit if you track on several devices. For more on that trade-off, read how to choose a private habit tracker with no account.
+
+### Numbers, limits and weekly goals
+
+A habit can be a simple check-off or a number in any unit. Goals can be a minimum ("at least 20 pages"), or a maximum for habits you want less of ("at most 2 cups of coffee"), per day or per week. A weekly goal counts its streak in weeks. See weekly habit goals and how to track a habit you want to do less.
+
+### Siri, Shortcuts and widgets
+
+"Check in on Habit Forever" works with Siri as soon as the app is installed, and the Check In Habit action in Shortcuts takes an optional amount and note, so you can log from the Action button or an automation. See how to log habits with Siri and Shortcuts. Home Screen and Lock Screen widgets let you check in without opening the app.
+
+### Free, or pay once
+
+It is free for up to three habits with no time limit. Habit Forever Pro adds unlimited habits, deeper insights such as your strongest days and time of day, widgets for every habit, and JSON backup export and import, as a yearly or monthly plan or a one-time lifetime purchase. More in habit trackers without a subscription. It is rated 4.6★ on the App Store, from 17 ratings.
+
+## If you switch
+
+Habit Forever cannot import Habitify data; its import only reads its own backups. The simplest path is to start your main habits fresh and keep Habitify's history for reference. If you have years of history and use more than one device, that is a good reason to stay.
+
+## More comparisons
+
+See all nine apps in our best habit tracker apps for iPhone comparison. If you want an Apple Watch app without an account, read the Streaks alternative page; for a visual grid tracker, see the HabitKit alternative page.
+
+## FAQ
+
+What is a good alternative to Habitify?
+If you only use iPhone or iPad, Habit Forever is an alternative with no account, data on your device, limits and weekly goals, and a one-time lifetime option; if you need Android, Mac, web or sync, Habitify remains the better fit.
+
+Does Habitify work on Android and Mac?
+Yes, Habitify's website lists iOS, Android and a web app, and its App Store listing covers iPhone, iPad, Mac, Apple Watch and Apple Vision.
+
+Does Habit Forever need an account like Habitify?
+No, Habit Forever works without an account and keeps your habit data on your device, with no sync between devices.
+
+Can I import my Habitify data into Habit Forever?
+No, Habit Forever cannot import Habitify data and only imports its own backups.
+
+Does Habitify have a lifetime option?
+Yes, Habitify's pricing page and App Store listing both show a lifetime purchase alongside its other plans.
+
+## Sources
+
+- Habitify official website (platforms, integrations, features; checked 18 November 2026)
+
+- Habitify pricing page (plans and billing options; checked 18 November 2026)
+
+- Habitify: Habit Tracker on the App Store (compatibility, in-app purchases, description, release notes; checked 18 November 2026)
+
+- Habit Forever on the App Store
+
+---
+
 # Looking for a HabitKit alternative?
 URL: https://habitforever.app/compare/habitkit-alternative.html
-Updated: 2026-10-22
+Updated: 2026-11-18
 
-HabitKit and Habit Forever are close: both show habits as colorful grids, need no account and keep data on your device. Habit Forever may suit you better if you want maximum limits or target ranges, monthly targets, or Siri check-ins with an amount.
+HabitKit and Habit Forever are close: both show habits as colorful grids, need no account and keep data on your device. Habit Forever may suit you better if you want limits for habits you want less of, weekly goals, or Siri check-ins with an amount.
 
 Disclosure: we make Habit Forever. HabitKit is the app most similar to ours, and a good one, so this page tries to be straight about where they match, where they differ, and what we could not verify.
 
@@ -542,9 +677,7 @@ These are features we can confirm in Habit Forever. Where we could not verify th
 
  | Maximum goals (limits) | — | Yes, for habits you want less of
 
- | Target ranges | — | Yes
-
- | Monthly targets | — | Yes, plus daily and weekly
+ | Weekly goals (streak counts weeks) | — | Yes, plus daily
 
  | Siri and Shortcuts | — | "Check In Habit" with optional amount and note, "Get Habit Streak", "Open Habit"
 
@@ -554,13 +687,13 @@ These are features we can confirm in Habit Forever. Where we could not verify th
 
  | Pro plans | Monthly, yearly, lifetime | Yearly, monthly, lifetime
 
-### Limits and ranges
+### Limits for habits you want less of
 
-Many habits are about doing less: screen time, coffee, spending. In Habit Forever a number habit can have a minimum, a maximum, or a target range, so "at most 2 hours" counts as a success when you stay under it.
+Many habits are about doing less: screen time, coffee, spending. In Habit Forever a number habit can have a number to reach or a limit to stay under, so "at most 2 hours" counts as a success when you stay under it. See how to track a habit you want to do less.
 
-### Monthly targets
+### Weekly goals
 
-Some habits do not fit a daily or weekly rhythm, such as calling family or a long hike. Habit Forever lets a habit have a daily, weekly or monthly target, and the streak counts in that period.
+Some habits do not fit a daily rhythm, such as the gym three times a week or two long walks. Habit Forever lets a habit have a weekly goal, and its streak counts weeks, so a rest day is not a miss. See weekly habit goals.
 
 ### Siri with amounts
 
@@ -576,7 +709,7 @@ There is no account, and habit data stays on your device. It is free for up to t
 
 ## When to stay with HabitKit
 
-- You are happy with its grids and habit types and do not need limits, ranges or monthly targets.
+- You are happy with its grids and habit types and do not need limits or weekly goals.
 
 - You have years of history in it and do not want to start again. Habit Forever cannot import HabitKit data; its import only reads its own JSON backups.
 
@@ -586,12 +719,12 @@ Habit Forever also has no iCloud sync, no Apple Watch app and no Apple Health in
 
 ## More comparisons
 
-See all nine apps in our best habit tracker apps for iPhone comparison, or, if you came from Android, Loop Habit Tracker for iPhone. For privacy questions, read how to choose a private habit tracker with no account.
+See all nine apps in our best habit tracker apps for iPhone comparison, our Habitify alternative page, or, if you came from Android, Loop Habit Tracker for iPhone. For privacy questions, read how to choose a private habit tracker with no account.
 
 ## FAQ
 
 What is a good alternative to HabitKit?
-Habit Forever is the closest alternative, with a similar colorful grid, no account and on-device storage, plus maximum limits, target ranges, monthly targets and Siri check-ins with an amount.
+Habit Forever is the closest alternative, with a similar colorful grid, no account and on-device storage, plus limits for habits you want less of, weekly goals and Siri check-ins with an amount.
 
 Is HabitKit free?
 HabitKit is free to use, with a Pro upgrade available as a monthly, yearly or lifetime purchase.
@@ -615,7 +748,9 @@ Fair comparisons of habit tracker apps for iPhone. I make Habit Forever, so I sa
 
 - CompareThe best habit tracker apps for iPhone in 2026A fair comparison of 9 iPhone habit trackers in 2026: Streaks, HabitKit, Habitify, Habits, Way of Life, Habitica, Everyday, Strides, Habit Forever.
 
-- CompareLooking for a HabitKit alternative?HabitKit is a great visual habit tracker. Here is how Habit Forever compares as a HabitKit alternative: limits and ranges, monthly targets, Siri, widgets.
+- CompareLooking for a Habitify alternative?Habitify is a strong cross-platform habit tracker. When Habit Forever is a good Habitify alternative (no account, limits, lifetime) and when it is not.
+
+- CompareLooking for a HabitKit alternative?HabitKit is a great visual habit tracker. Here is how Habit Forever compares as a HabitKit alternative: limits, weekly goals, Siri with amounts, widgets.
 
 - CompareIs there a Loop Habit Tracker for iPhone?Loop Habit Tracker is Android only, with no official iOS app. These iPhone habit trackers offer a similar grid and need no account.
 
@@ -625,7 +760,7 @@ Fair comparisons of habit tracker apps for iPhone. I make Habit Forever, so I sa
 
 # Is there a Loop Habit Tracker for iPhone?
 URL: https://habitforever.app/compare/loop-habit-tracker-iphone.html
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 No. Loop Habit Tracker is a free, open-source app for Android only, available on Google Play and F-Droid, and it has no official iOS version. On iPhone, HabitKit, Streaks and Habit Forever offer a similar no-account, visual approach.
 
@@ -687,9 +822,9 @@ We make Habit Forever, so take this with that in mind. It shares several things 
 
 - A colorful day-by-day grid for each habit, in the style of a GitHub contribution graph, plus current and best streak and consistency.
 
-- Flexible goals: daily, weekly or monthly targets, on every day or chosen days.
+- Flexible goals: daily or weekly, on every day, weekdays or chosen days.
 
-- Number habits with a minimum, a maximum for things you want less of, or a target range.
+- Number habits with a number to reach, or a limit to stay under for things you want less of.
 
 - Widgets and Siri: check in from the Home Screen or Lock Screen, or with the "Check In Habit" action.
 
@@ -724,9 +859,9 @@ Loop Habit Tracker's developer has not released an official iOS app, so check th
 
 # Looking for a Streaks app alternative?
 URL: https://habitforever.app/compare/streaks-app-alternative.html
-Updated: 2026-10-22
+Updated: 2026-11-18
 
-Stay with Streaks if you rely on Apple Watch, Apple Health auto-complete or iCloud sync; it does those very well. Look at an alternative such as Habit Forever if you want number goals with limits or ranges, weekly or monthly targets, contribution grids, or a free tier to start.
+Stay with Streaks if you rely on Apple Watch, Apple Health auto-complete or iCloud sync; it does those very well. Look at an alternative such as Habit Forever if you want number goals with limits, weekly targets, contribution grids, or a free tier to start.
 
 Disclosure: we make Habit Forever, one of the alternatives on this page. We have tried to be fair to Streaks, which is a genuinely excellent app, and to say clearly when it is the better choice.
 
@@ -768,9 +903,7 @@ The reasons we hear most often are about how habits are measured, not about qual
 
 - Wanting limits, not just targets: "under 2 hours of screen time" or "spend no more than a set amount".
 
-- Wanting a target range, such as between 7 and 9 hours of sleep.
-
-- Wanting weekly or monthly targets that do not feel like a broken streak on rest days.
+- Wanting weekly targets that do not feel like a broken streak on rest days.
 
 - Wanting to see a long history at a glance as a colored grid.
 
@@ -782,13 +915,13 @@ The reasons we hear most often are about how habits are measured, not about qual
 
 Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later). Here is what it offers that matters for the reasons above.
 
-### Number goals with a minimum, maximum or range
+### Number goals: reach a number or stay under a limit
 
-Track check-off habits or number habits in pages, glasses, minutes, distance, spending or your own unit. For each number habit, set a minimum ("at least 20 pages"), a maximum for habits you want less of ("at most 2 hours"), or a target range.
+Track check-off habits or number habits in pages, glasses, minutes, distance, spending or your own unit. For each number habit, set a minimum ("at least 20 pages"), or a maximum for habits you want less of ("at most 2 hours").
 
-### Daily, weekly or monthly targets
+### Daily or weekly targets
 
-Choose every day or specific days, or set a target for the week or the month. A weekly habit's streak counts weeks, so a planned rest day is not a miss.
+Choose every day, weekdays or specific days, or set a target for the week. A weekly habit's streak counts weeks, so a planned rest day is not a miss.
 
 ### Contribution grids, streaks and consistency
 
@@ -820,9 +953,9 @@ No account, and habit records and notes stay on your device.
 
  | Apple Health auto-complete | Yes | No
 
- | Number goals with maximum or range | — | Yes
+ | Number goals with a maximum (limit) | — | Yes
 
- | Weekly and monthly targets | — | Yes
+ | Weekly targets | — | Yes
 
  | Contribution grid per habit | — | Yes
 
@@ -836,7 +969,7 @@ No account, and habit records and notes stay on your device.
 
 ## Other Streaks alternatives
 
-If neither fits, HabitKit is a visual, no-account tracker with a lifetime option, and Habitify works across iOS, Android, Mac and the web with an account. Our full comparison of the best habit tracker apps for iPhone covers nine apps. If what you want is mainly a better widget, see how to add a habit tracker widget on iPhone.
+If neither fits, HabitKit is a visual, no-account tracker with a lifetime option, and Habitify works across iOS, Android, Mac and the web with an account (see our Habitify alternative page). Our full comparison of the best habit tracker apps for iPhone covers nine apps. If what you want is mainly a better widget, see how to add a habit tracker widget on iPhone.
 
 ## FAQ
 
@@ -854,6 +987,228 @@ No, Habit Forever does not integrate with Apple Health, while Streaks can comple
 
 Does Habit Forever have a one-time purchase like Streaks?
 Habit Forever Pro is available as a one-time lifetime purchase as well as yearly or monthly plans, after a free tier of up to three habits.
+
+---
+
+# How to build a reading habit
+URL: https://habitforever.app/guides/build-a-reading-habit.html
+Updated: 2026-11-18
+
+To build a reading habit, set a small daily minimum in pages or minutes, attach it to a fixed moment such as after dinner, and track it. Twelve books a year of about 300 pages works out to roughly 10 pages a day, which at an average reading speed is about 10 to 13 minutes.
+
+"Read more" is one of the most common resolutions, and one of the easiest to drop, because it is not a habit yet; it is a wish. What turns it into a habit is a number small enough to hit on a tired day and a moment in the day it belongs to. I built number habits into Habit Forever for goals like this one, and this guide shows the math, the built-in options on iPhone, and how to set it up.
+
+## From books per year to pages per day
+
+Start from the goal you want and work backwards. Book lengths vary a lot, so the table assumes an average of 300 pages per book; swap in your own number if you read shorter or longer books.
+
+ | | Books per year | Pages per year (300-page books) | Pages per day
+
+ | 6 | 1,800 | about 5
+
+ | 12 (one a month) | 3,600 | about 10
+
+ | 24 (two a month) | 7,200 | about 20
+
+ | 52 (one a week) | 15,600 | about 43
+
+The formula is simple: books per year × pages per book ÷ 365. A book a month is just 10 pages a day. That is the surprising part for most people: the gap between "I never read" and "I read a book a month" is a quarter of an hour.
+
+### How long does a page take?
+
+A 2019 meta-analysis by Marc Brysbaert, covering 190 studies and 18,573 participants, put the average silent reading rate of adults in English at about 238 words per minute for non-fiction and 260 for fiction. Most adults read English non-fiction at somewhere between 175 and 300 words per minute, and the paper notes that these estimates are lower than the figures often cited in scientific and popular writing.
+
+How many words fit on a page depends on the book. If a page holds roughly 250 to 300 words, a page takes about one minute to a minute and a quarter at those speeds. So:
+
+- 10 pages a day is roughly 10 to 13 minutes.
+
+- 20 pages a day is roughly 20 to 25 minutes.
+
+These are averages. Dense non-fiction, a second language or a book you are studying will be slower, and that is fine.
+
+## Pages or minutes?
+
+- Pages are easy to count and give a clear sense of progress through a book. They are unfair to dense books: 10 pages of philosophy is not 10 pages of a thriller.
+
+- Minutes treat every book the same and suit audiobooks. They are harder to keep honest if you read with your phone nearby.
+
+Pick one and stay with it for a month. If you switch between hard and easy books a lot, minutes are usually the better choice.
+
+## Built-in options on iPhone
+
+Apple Books has Reading Goals: it tracks how much you read in a day, your streak and how many books you have read this year, and it counts reading you do in the Books app. If you read e-books or audiobooks there, it is a good free tracker.
+
+If you read paper books, a Kindle or another app, Books does not see that reading. A repeating reminder in Reminders ("Read 10 pages") or a paper log works; our printable habit tracker has a monthly grid you can fill in with page counts.
+
+ 
+
+## Track reading as a number habit in Habit Forever
+
+Habit Forever tracks reading wherever it happens, because you log the number yourself. Here is how to set it up:
+
+- Add a new habit called "Read".
+
+- Under Goal, choose Reach a number, set at least 10 (or your number), and pick the unit pages or minutes.
+
+- Choose Each day, or Each week if your reading happens in bigger sessions; 70 pages a week gives you room for a busy Tuesday.
+
+- Turn on One tap adds with 10, so a normal session is one tap and longer ones use the keypad.
+
+- Set a reminder for your reading moment, such as 9 pm. It stays quiet on days you have already logged.
+
+Several sessions in one day add up, so 5 pages on the train and 15 in bed count as 20. Each habit has a current and best streak, and a day-by-day grid that fills in the days you reached your number. You can add a note to a check-in, a good place for the book title or a line worth keeping. If you forgot to log yesterday, you can fill in any of the last 7 days.
+
+To log without opening the app, make a shortcut with the Check In Habit action and set Amount to Ask Each Time; see how to log habits with Siri and Shortcuts.
+
+## Tips that actually help
+
+- Set a minimum, not a target. Ten pages is the floor. On good days you will read 40, and that is a bonus, not the new rule.
+
+- Attach it to an anchor. "After I get into bed, I will read 10 pages" is a plan; "read more" is not. This is habit stacking.
+
+- Keep the book where the anchor is. On your pillow, in your bag, next to the kettle.
+
+- Give yourself permission to quit a book. A book you dread stalls the whole habit. Start another.
+
+- Be patient. Research suggests habits take weeks to months to feel automatic; see how long it takes to form a habit.
+
+## FAQ
+
+How many pages a day to read 12 books a year?
+About 10 pages a day, assuming books of around 300 pages: 12 × 300 = 3,600 pages, divided by 365 days.
+
+How long does it take to read 10 pages?
+Roughly 10 to 13 minutes at an average reading speed, based on average silent reading rates of about 238 to 260 words per minute and pages of about 250 to 300 words.
+
+Should I track reading in pages or minutes?
+Pages are easy to count and show progress through a book, while minutes treat dense and light books the same and suit audiobooks.
+
+Can Apple Books track my reading habit?
+Yes, Apple Books Reading Goals tracks daily reading, streaks and books read this year, but only for reading done in the Books app.
+
+## Sources
+
+- Brysbaert, M. (2019). How many words do we read per minute? A review and meta-analysis of reading rate. Journal of Memory and Language, 109, 104047.
+
+- Apple Books: Reading Goals
+
+- Apple Support: Create reminders on iPhone
+
+---
+
+# Habit stacking: how it works and how to track it
+URL: https://habitforever.app/guides/habit-stacking.html
+Updated: 2026-11-18
+
+Habit stacking means attaching a new habit to something you already do every day, using a sentence like "After I pour my morning coffee, I will write one line in my journal." The existing routine becomes the reminder, so you rely less on memory and motivation.
+
+Habit stacking is one of the most practical ideas in the habit world, and also one of the most loosely credited. Below I explain where it comes from, with the sources, how to write a good stack, and how I would track one on iPhone.
+
+## Where the idea comes from
+
+Three names come up, and each deserves credit for a different part.
+
+- BJ Fogg, who directs the Behavior Design Lab at Stanford University, created the Tiny Habits method. In it you attach a new, very small behavior to a habit you already do, which he calls an anchor. The sequence is anchor, then tiny behavior, then a small celebration, written as a recipe: "After I…, I will…". His book is Tiny Habits: The Small Changes That Change Everything.
+
+- S.J. Scott published a book called Habit Stacking in 2014 (subtitled 97 Small Life Changes That Take Five Minutes or Less, later revised), which helped popularize the term.
+
+- James Clear brought it to a wide audience in Atomic Habits and on his website, with the formula "After [current habit], I will [new habit]." He credits the method to BJ Fogg's Tiny Habits program, notes that Fogg calls it anchoring, and credits S.J. Scott for the phrase "habit stacking".
+
+Underneath all three is older research. Research by the psychologist Peter Gollwitzer showed that plans of the form "if situation Y, then I will do Z", which he called implementation intentions, help people follow through on what they intend; his 1999 paper in American Psychologist summarizes it. Clear describes habit stacking as a special form of implementation intention, where the situation is a habit you already have.
+
+## How to build a habit stack
+
+### 1. Pick a precise anchor
+
+The anchor should be something you do every day without thinking, and it should happen at a clear moment. Tiny Habits material from Fogg makes the point well: "After I finish dinner" is a weak anchor because there is no precise moment when dinner ends, while "After I take my plate into the kitchen" works. Good anchors include:
+
+- After I put my feet on the floor in the morning
+
+- After I pour my first coffee
+
+- After I sit down at my desk
+
+- After I plug in my phone at night
+
+### 2. Make the new habit tiny
+
+Start with a version you could do on your worst day: one push-up, one line in a journal, open the book. You can always do more, but the stack should never depend on having energy. "After I pour my coffee, I will write one line" survives a bad morning; "I will journal for 20 minutes" often does not.
+
+### 3. Write the sentence down
+
+Use the exact formula: "After I [anchor], I will [new habit]." Saying where and when out loud is what turns a wish into a plan.
+
+### 4. Mark it straight away
+
+Fogg's method puts a small celebration right after the behavior, because a good feeling helps the habit stick. A quiet "yes", a smile, or ticking it off counts. That last one is where a tracker earns its place.
+
+### 5. Add the next link later
+
+Once a stack feels automatic, the new habit can become the anchor for another: coffee, then one journal line, then two minutes of stretching. Add links one at a time, and only when the previous one is steady.
+
+## Use your iPhone as the anchor
+
+Some of the best anchors are things your iPhone already notices, and the Shortcuts app can turn them into a prompt with a personal automation. Triggers include your alarm being stopped, your wake-up time, arriving home, CarPlay disconnecting and your phone being connected to a charger. An automation could show a notification such as "Stretch for two minutes" when you stop your morning alarm.
+
+Reminders works too: a repeating reminder at the time your anchor usually happens.
+
+ 
+
+## How I would track a stack in Habit Forever
+
+Habit Forever has no special "stack" feature; it does not need one. A stack is a few habits done in order, and the app handles each one well:
+
+- Name the habit with its anchor. "Journal after coffee" puts the whole recipe on your Today screen.
+
+- Put the stack in order. Reorder your habits (in Settings) so they appear in the order you do them.
+
+- Time the reminder to the anchor. Set the habit's reminder for when the anchor usually happens. Reminders only arrive on the habit's days and stay quiet once you have checked in.
+
+- Tick it off as the celebration. A tap on the habit, a widget on the Lock Screen, or "Check in on Habit Forever" to Siri. See how to log habits with Siri and Shortcuts.
+
+- Use a number when the habit grows. Start with a check-off, then switch to a number goal such as at least 2 minutes or 5 pages when the tiny version is easy.
+
+The free version tracks up to three habits, which is a good size for a first stack. Each habit keeps its own streak and day-by-day grid, so you can see which link in the chain is solid and which keeps slipping.
+
+## Common mistakes
+
+- A vague anchor. "In the morning" is not an anchor. "After I switch off the kettle" is.
+
+- An anchor that does not happen every day. If you only go to the office three days a week, "after I sit at my desk" will miss the other days. Use a schedule for those days, or pick a daily anchor. See weekly habit goals.
+
+- Stacking too much at once. Five new habits after coffee is a routine you have to remember, not a stack.
+
+- Quitting after a miss. One missed day does little harm; read what to do when you miss a day.
+
+How long until a stack feels automatic varies a lot from person to person; how long it takes to form a habit covers the research.
+
+## FAQ
+
+What is habit stacking?
+Habit stacking means attaching a new habit to something you already do every day, using a sentence like "After I pour my morning coffee, I will write one line in my journal."
+
+Who came up with habit stacking?
+BJ Fogg created the method of anchoring a tiny new behavior to an existing habit in Tiny Habits, S.J. Scott helped popularize the term with his 2014 book Habit Stacking, and James Clear brought it to a wide audience in Atomic Habits.
+
+What is the habit stacking formula?
+James Clear's formula is "After [current habit], I will [new habit]," which follows BJ Fogg's Tiny Habits recipe "After I…, I will…".
+
+Is habit stacking backed by research?
+It builds on research into implementation intentions, if-then plans studied by Peter Gollwitzer, which help people follow through on what they intend.
+
+## Sources
+
+- Tiny Habits (BJ Fogg): creator of the method, Behavior Design Lab at Stanford
+
+- Tiny Habits: Getting Started (Tiny Habits material by BJ Fogg and Linda Fogg Phillips, adapted by Stanford Medicine's ASCEND project)
+
+- James Clear: Habit Stacking: How to Build New Habits by Taking Advantage of Old Ones
+
+- S.J. Scott, Habit Stacking (2014), Open Library record
+
+- Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. American Psychologist, 54(7), 493–503.
+
+- Apple Support: Event triggers in Shortcuts
 
 ---
 
@@ -957,7 +1312,7 @@ The free plan also covers up to three habits with goals, reminders and notes, so
 
 - Turn off Low Power Mode briefly. iOS may refresh widgets less often to save battery.
 
-A widget works best alongside a habit you can actually keep. If you are just getting started, read how to track habits on iPhone, or see how a number habit and a widget combine in our guide to tracking water intake on iPhone.
+A widget works best alongside a habit you can actually keep. If you are just getting started, read how to track habits on iPhone, or see how a number habit and a widget combine in our guide to tracking water intake on iPhone. For hands-free check-ins, see how to log habits with Siri and Shortcuts.
 
 ## FAQ
 
@@ -986,9 +1341,115 @@ Yes, in Habit Forever a tap on the widget logs the fixed amount you chose for a 
 
 ---
 
+# A habit tracker without a subscription
+URL: https://habitforever.app/guides/habit-tracker-without-subscription.html
+Updated: 2026-11-18
+
+You can track habits on iPhone without a subscription in three ways: free built-in tools (Reminders, Notes, paper), an app you pay for once, or an app's free tier. Habit Forever is free for up to three habits with no time limit, and its Pro upgrade has a one-time lifetime option next to yearly and monthly plans.
+
+I make Habit Forever, and I get asked about subscriptions more than anything else. That is fair: a habit tracker is something you hope to use for years, and a monthly charge for a checklist can feel wrong. So here are the honest options, starting with the ones that cost nothing.
+
+## Free options already on your iPhone
+
+- Reminders. A repeating reminder that you tick off each day is the closest thing iPhone has to a built-in habit tracker. It costs nothing and syncs through iCloud if you use it. It has no streaks, no counts and no history you can read at a glance. My guide on how to track habits on iPhone walks through the steps.
+
+- Notes. A checklist or a small table with dates down the side. Flexible and private, but nothing reminds you and nothing adds up.
+
+- Paper. A grid on the fridge is hard to ignore. Our printable habit tracker gives you a ready-made monthly sheet for free.
+
+If you only want to take a vitamin every morning, any of these is enough. You do not need to pay anyone.
+
+## How habit tracker apps charge
+
+Apps that do more (streaks, number goals, widgets, reminders per habit) tend to use one of four models. Here is how the apps in our comparison of iPhone habit trackers describe their pricing on their own pages:
+
+ | | Model | What it means | Examples
+
+ | Paid upfront | Pay once to download, nothing more | Streaks (no in-app purchases)
+
+ | Free tier + lifetime option | Use the free part for as long as you like, and buy the upgrade once or as a subscription | HabitKit, Habitify, Habit Forever
+
+ | Subscription or lifetime, no free tier stated | A subscription, with a one-time purchase also offered | Everyday
+
+ | Subscription | Recurring payment, with limited free use | (Not Boring) Habits
+
+Way of Life and Strides are free with in-app purchases. Pricing changes, so check the App Store listing before you buy. I never print prices on this site for that reason; the app shows the current price before you pay.
+
+## What Habit Forever gives you for free
+
+The free version is not a trial. There is no countdown and no account to create. You get up to three habits with the core of the app:
+
+- Check-off habits, or number habits such as pages, glasses, minutes or spending.
+
+- Goals: reach a number, or stay under a limit, each day or each week, on every day or chosen days.
+
+- Reminders per habit, which stay quiet on days you already checked in.
+
+- Notes on check-ins, current and best streaks, and a colorful day-by-day grid for each habit.
+
+Habit records and notes are stored on your device. There is no iCloud sync.
+
+## The lifetime option
+
+Habit Forever Pro adds unlimited habits, deeper insights (your strongest days, your usual time of day, month by month), widgets for every habit, and backup export and import. You can buy it yearly, monthly, or once as a lifetime purchase. Lifetime means you pay one time and Pro stays on your Apple Account, with no subscription and nothing to renew. If you get a new iPhone, you restore the purchase with the same Apple Account.
+
+Purchases are handled by Apple, so a yearly or monthly plan is cancelled the usual way in your iPhone's Settings, under your name and then Subscriptions.
+
+ 
+
+## Is three habits enough?
+
+Some people tell me three free habits is too few, and for someone tracking ten things it is. But for most people starting out, three is a good number to begin with rather than a cage. In my experience, starting with a dozen habits on day one is a fast way to stop tracking any of them. Here is how I would pick the three:
+
+- One habit that matters most. The change you would be proudest of in six months: reading, exercise, sleep.
+
+- One easy win. Something small you will almost always do, like taking a vitamin or stepping outside after breakfast. Seeing a streak build keeps you opening the app.
+
+- One thing to do less of. Screen time, coffee or daily spending, with a limit instead of a target. See how to track a habit you want to do less.
+
+Make each one specific, such as "read 10 pages after dinner" rather than "read more". If a habit needs to happen a few times a week rather than daily, one habit with a weekly goal covers it; see weekly habit goals.
+
+When a habit feels automatic, you can archive it. Its history is kept, and on the free version it no longer counts toward your three, so a new habit can take its place. Bringing an archived habit back onto the Today screen is a Pro feature, so archive the ones you are truly done tracking.
+
+## Which option should you choose?
+
+- One or two simple daily habits: Reminders or paper. Free, no app needed.
+
+- Up to three habits with streaks and number goals: Habit Forever's free version, with no time limit.
+
+- More than three habits, no subscription: an app with a one-time purchase, such as Habit Forever's lifetime option, or Streaks if you want an Apple Watch app.
+
+- Several devices, including Android or the web: an app with account sync, such as Habitify. See my Habitify comparison.
+
+## FAQ
+
+Is there a habit tracker with no subscription?
+Yes: Streaks is paid upfront with no in-app purchases, and HabitKit, Habitify, Everyday and Habit Forever offer a one-time lifetime option next to their subscriptions.
+
+Is Habit Forever free?
+Habit Forever is free for up to three habits with no time limit, including goals, reminders, notes, streaks and grids.
+
+What does Habit Forever's lifetime option include?
+Lifetime means you pay one time and Pro stays on your Apple Account, with unlimited habits, deeper insights, widgets for every habit and backup export and import.
+
+Can I track habits on iPhone for free without an app?
+Yes, a repeating reminder in the Reminders app, a Notes checklist or a printed paper tracker all work for free.
+
+## Sources
+
+- Habit Forever on the App Store
+
+- Streaks, HabitKit, Habitify pricing, Everyday (official sites, as summarized in our comparison)
+
+- Apple Support: Create reminders on iPhone
+
+- Apple Support: Cancel a subscription from Apple
+
+---
+
 # How long does it take to form a habit?
 URL: https://habitforever.app/guides/how-long-to-form-a-habit.html
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 Usually about two months, but with a very wide range. In the best-known study, the median time for a new daily habit to feel close to automatic was 66 days, with individuals ranging from 18 to 254 days.
 
@@ -1034,7 +1495,7 @@ Over the decades, "a minimum of about 21 days" to adjust appears to have been sh
 
 - Complexity. A glass of water after waking forms faster than a 30-minute workout.
 
-- A stable cue. Linking the habit to the same time, place or existing routine ("after I pour my coffee") helps it become automatic.
+- A stable cue. Linking the habit to the same time, place or existing routine ("after I pour my coffee") helps it become automatic. This is the idea behind habit stacking.
 
 - Repetition in a similar context. Automaticity grows with repetitions, so a daily habit usually forms faster than a weekly one.
 
@@ -1050,11 +1511,11 @@ If you want a rough date to aim for, our habit formation calculator uses these r
 
 The hard part is the long middle, when the novelty has gone and the habit is not yet automatic. A few things help:
 
-- Make it small. Two pages a day that you actually read beats twenty you skip.
+- Make it small. Two pages a day that you actually read beats twenty you skip; our guide to building a reading habit does the math.
 
 - Track it visibly. Watching a day-by-day grid fill in gives you proof of progress before the habit feels easy. Habit Forever shows a colorful grid for each habit, along with your current and best streak and a consistency figure.
 
-- Use weekly targets where daily is unrealistic. If you train three times a week, a weekly goal keeps rest days from breaking your record. Habit Forever supports daily, weekly and monthly targets.
+- Use weekly targets where daily is unrealistic. If you train three times a week, a weekly goal keeps rest days from breaking your record. Habit Forever supports daily and weekly goals.
 
 - Keep a reminder at your cue time. A reminder tied to your routine prompts you until the cue does the work by itself.
 
@@ -1089,7 +1550,7 @@ No, the median is the middle value, while the average is pulled up by people who
 
 # How to track habits on iPhone
 URL: https://habitforever.app/guides/how-to-track-habits-on-iphone.html
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 You can track habits on iPhone with the built-in Reminders app (a repeating reminder you tick off), Calendar, or a Notes checklist. When you want streaks, number goals and a history you can actually read, a dedicated habit tracker app does the job better.
 
@@ -1137,9 +1598,9 @@ Built-in apps are fine for a quick start. In practice, people who stick with tra
 
 - Number goals, such as 8 glasses of water, 20 pages or 30 minutes, not just done or not done.
 
-- Limits for habits you want less of, such as under 2 hours of screen time.
+- Limits for habits you want less of, such as under 2 hours of screen time (see how to track a habit you want to do less).
 
-- Weekly targets, such as the gym three times a week, without breaking a daily streak on rest days.
+- Weekly targets, such as the gym three times a week, without breaking a daily streak on rest days (see weekly habit goals).
 
 - A history at a glance, so you can see a whole year of effort in one picture.
 
@@ -1153,23 +1614,23 @@ A habit tracker is built around exactly the list above. We make one, Habit Forev
 
 - Check-off or number habits. Tick a habit off, or count pages, glasses, minutes, distance, spending or your own unit.
 
-- Goals that fit the habit. Set a minimum, a maximum for habits you want less of, or a target range. Targets can be daily, weekly or monthly, on every day or chosen days.
+- Goals that fit the habit. Reach a number (at least 20 pages), stay under a limit for habits you want less of (at most 2 hours), or just check it off. Goals can be per day or per week, on every day, weekdays or chosen days.
 
 - Streaks and grids. Each habit shows its current and best streak, a consistency figure and a colorful day-by-day grid in the style of a GitHub contribution graph.
 
 - Reminders per habit, notes on check-ins, and the option to fill in a past day you actually did.
 
-- Widgets and Siri. Check in from Home Screen and Lock Screen widgets, or use the "Check In Habit" action in Siri and Shortcuts.
+- Widgets and Siri. Check in from Home Screen and Lock Screen widgets, or use the "Check In Habit" action in Siri and Shortcuts. See how to log habits with Siri and Shortcuts.
 
 - No account. Your habit records and notes stay on your device.
 
-It runs on iPhone and iPad with iOS 17 or later. It is free for up to three habits; Habit Forever Pro adds unlimited habits, deeper insights, widgets for every habit and backup export and import. It does not have an Apple Watch app, iCloud sync or Apple Health integration, so if any of those matter to you, compare a few options first in our guide to the best habit tracker apps for iPhone.
+It runs on iPhone and iPad with iOS 17 or later. It is free for up to three habits; Habit Forever Pro adds unlimited habits, deeper insights, widgets for every habit and backup export and import. It does not have an Apple Watch app, iCloud sync or Apple Health integration, so if any of those matter to you, compare a few options first in our guide to the best habit tracker apps for iPhone. If you would rather not subscribe, read about habit trackers without a subscription.
 
 ## How to start tracking without giving up
 
 - Start with one to three habits. More than that in week one is the most common reason people stop.
 
-- Make each habit specific. "Read 10 pages after dinner" beats "read more".
+- Make each habit specific. "Read 10 pages after dinner" beats "read more" (see how to build a reading habit). Tying a habit to something you already do is called habit stacking.
 
 - Put the tracker where you will see it. A Home Screen or Lock Screen widget turns a glance at your phone into a reminder. See how to add a habit tracker widget.
 
@@ -1222,23 +1683,165 @@ Updated: 2026-10-22
 
 Clear, practical answers about building habits and tracking them on iPhone. Built-in options come first; the app is mentioned where it genuinely helps.
 
+- GuideHow to build a reading habitBuild a reading habit with a small daily minimum in pages or minutes. Simple math from books per year to pages per day, plus how to track it on iPhone.
+
+- GuideHabit stacking: how it works and how to track itHabit stacking links a new habit to one you already do: "After I pour my coffee, I will write one line." Where the idea comes from and how to track it.
+
 - GuideHow to add a habit tracker widget to your iPhoneHow to add a habit tracker widget to your iPhone Home Screen or Lock Screen in iOS 17, 18 and 26, and check in on a habit with one tap.
+
+- GuideA habit tracker without a subscriptionHabit trackers you can use without a subscription on iPhone: free built-in options, apps you pay for once, and how to choose three habits on a free tier.
 
 - GuideHow long does it take to form a habit?Research puts the median at about 59 to 66 days, with a huge range from a few days to almost a year. What the studies found and why 21 days is a myth.
 
 - GuideHow to track habits on iPhoneTrack habits on iPhone with Reminders, Calendar, Notes or paper, or use a dedicated habit tracker for streaks, goals and widgets. Honest pros and cons.
 
+- GuideHow to log habits with Siri and ShortcutsLog habits by voice with Siri, from the Action button or automatically with Shortcuts automations (time, place, NFC tag). Exact phrases and steps.
+
 - GuideMissed a day? What a broken habit streak really meansMissing one day does not undo a habit. What research says about a broken streak, the never-miss-twice rule, and why consistency beats a perfect streak.
 
 - GuideHow to choose a private habit tracker with no accountFind a private iPhone habit tracker with no account that works offline: read the privacy label, check sync and export, know the trade-offs.
 
+- GuideHow to track a habit you want to do lessCut back on coffee, screen time or spending by tracking a limit instead of a target, with an if-then plan for when the urge hits. Built-in tools first.
+
 - GuideHow to track water intake on iPhoneLog water on iPhone in the Health app under Nutrition, or track glasses as a daily habit with a target, a one-tap widget and Siri. Steps for both.
+
+- GuideHow to track a "3 times a week" habitHow to track a habit you want to do 3 times a week, on any days or fixed days, without a daily streak breaking on rest days. Reminders, paper and an app.
+
+---
+
+# How to log habits with Siri and Shortcuts
+URL: https://habitforever.app/guides/log-habits-with-siri-shortcuts.html
+Updated: 2026-11-18
+
+To log a habit with Siri, use a habit tracker that offers App Shortcuts: with Habit Forever, say "Check in on Habit Forever" and Siri asks which habit. In the Shortcuts app you can go further and log a habit, with an amount and a note, from the Action button, an NFC tag or an automation that runs at a set time or place.
+
+Every tap between you and a check-in is a reason to skip it. I built Siri and Shortcuts support into Habit Forever for exactly that reason, and this guide shows what iPhone itself offers first, then the exact phrases and actions the app adds.
+
+## What iPhone gives you for free
+
+iPhone has no habit log of its own, but it has three tools that any app can plug into:
+
+- Siri can run any shortcut in your collection when you say its name.
+
+- The Shortcuts app shows built-in shortcuts from your apps in its App Shortcuts area, and lets you combine their actions into your own shortcuts.
+
+- Automations run a shortcut when something happens: a time of day, arriving at or leaving a place, scanning an NFC tag, opening an app, connecting to Wi-Fi or Bluetooth, a Focus turning on, your alarm being stopped and more.
+
+You can also start any shortcut with a physical gesture: the Action button on iPhone 15 Pro and later (Settings > Action Button, swipe to Shortcut, then Choose a Shortcut), or Back Tap, which runs a shortcut when you double-tap or triple-tap the back of your iPhone (Settings > Accessibility > Touch > Back Tap).
+
+If all you want is a spoken nudge, Siri can already create a reminder for you, which works as a simple tracker; see how to track habits on iPhone. To actually log a habit and keep a streak, you need an app that provides the actions.
+
+## Habit Forever's Siri phrases
+
+These work as soon as the app is installed. There is nothing to set up. Ask Siri:
+
+ | | Say | What happens
+
+ | "Check in on Habit Forever""Log a habit in Habit Forever""Track my habit in Habit Forever" | Siri asks which habit, checks it in for today and tells you your streak
+
+ | "Show my streak in Habit Forever""What's my streak in Habit Forever" | Siri asks which habit and reads its current streak
+
+ | "Open a habit in Habit Forever" | Opens that habit in the app
+
+After a check-in Siri answers with something like "Checked in on Read. You're on a 5-day streak!" For a habit with a weekly goal, the streak is counted in weeks. Your Home Screen and Lock Screen widgets update straight away.
+
+## The three Shortcuts actions
+
+In the Shortcuts app, Habit Forever adds three actions you can use in your own shortcuts and automations:
+
+- Check In Habit: marks a habit as done for today, without opening the app. It has two optional fields: Amount, for number habits (3 glasses, 25 minutes, 20 pages), and Note, which is saved with the check-in in that habit's history.
+
+- Get Habit Streak: returns the current streak for a habit as a number you can use in the next action, for example in a notification.
+
+- Open Habit: opens a specific habit in the app.
+
+For a number habit, fill in Amount so the check-in adds to your total. If you leave it empty, the check-in marks the day as done without a number. You can also set Amount to Ask Each Time, so the shortcut asks you how much when it runs.
+
+## Log a specific habit in one sentence
+
+The built-in phrases always ask which habit. To skip that question, make a shortcut for one habit and give it a short name:
+
+- Open the Shortcuts app and create a new shortcut.
+
+- Add the Check In Habit action from Habit Forever and choose the habit, for example "Drink water".
+
+- Set Amount to 1 if it is a number habit.
+
+- Name the shortcut "Log water".
+
+Now "Hey Siri, log water" checks it in. The same shortcut can go on the Action button or Back Tap, so one press logs a glass.
+
+ 
+
+## Log habits automatically
+
+Automations are where Shortcuts shines for habits. A few that work well with Check In Habit:
+
+- NFC tag: stick a cheap NFC tag on your vitamin bottle or by the door and check in when you tap your iPhone on it. Apple notes that not all devices support NFC.
+
+- Arrive: check in "Gym" when you arrive at the gym's address.
+
+- App: check in "Read" when you open your e-book app, if opening it really means you read.
+
+- Time of Day: at 9 pm, run Get Habit Streak and show a notification with the number, as an evening nudge.
+
+Be honest with yourself about automatic check-ins. Arriving at the gym is not the same as working out, so for habits like that I prefer an automation that asks first, or the Action button.
+
+### How to create an automation
+
+The steps changed in iOS 27, so here are both versions from Apple's Shortcuts guide:
+
+- iOS 26 and earlier: in Shortcuts, tap Automation (then the add button if you already have automations), tap Create Personal Automation, choose a trigger such as Time of Day or Arrive, set its options, tap Next, and add the Check In Habit action.
+
+- iOS 27: open the shortcut you made (for example "Log water"), tap Edit, then Automation, and choose a trigger.
+
+By default an automation asks before it runs. You can set it to run without asking; in iOS 27 that is under the shortcut's Info button, Privacy, Allow Running When Locked. Automations are specific to one device.
+
+## What to know before you rely on it
+
+- Check In Habit always logs for today. To fill in a day you missed, open the app; Habit Forever lets you add a check-in for any of the last 7 days.
+
+- Siri needs to be turned on, and when your iPhone is locked, Siri may ask you to unlock it before a shortcut that opens an app.
+
+- Habit Forever has no Apple Watch app, so these shortcuts run on iPhone and iPad.
+
+Siri and widgets work well together: Siri for hands-free moments, a widget for a one-tap glance. See how to add a habit tracker widget, or how to track water intake on iPhone for a number habit that suits both.
+
+## FAQ
+
+Can I log a habit with Siri?
+Yes, with an app that offers App Shortcuts: in Habit Forever, say "Check in on Habit Forever" and Siri asks which habit, checks it in and tells you your streak.
+
+Can Siri log an amount, like glasses of water?
+Yes, the Check In Habit action in Shortcuts has an optional Amount field, so a shortcut can log 1 glass, 20 pages or 25 minutes, or ask you each time.
+
+Can I check in a habit automatically?
+Yes, a Shortcuts automation can run Check In Habit at a time of day, when you arrive somewhere, open an app or scan an NFC tag.
+
+Does it work from the Action button?
+Yes, on iPhone 15 Pro and later you can set the Action button to run a shortcut that contains the Check In Habit action.
+
+## Sources
+
+- Apple Support: Use Siri to run shortcuts with your voice
+
+- Apple Support: Run app shortcuts on iPhone or iPad
+
+- Apple Support: Create a new personal automation (iOS 26)
+
+- Apple Support: Add automations to Shortcuts (iOS 27)
+
+- Apple Support: Setting triggers (NFC, App, Focus, Wi-Fi)
+
+- Apple Support: Run shortcuts with the Action button
+
+- Apple Support: Run shortcuts by tapping the back of your iPhone
 
 ---
 
 # Missed a day? What a broken habit streak really means
 URL: https://habitforever.app/guides/missed-a-day-habit-streak.html
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 One missed day does not undo a habit. In the best-known study of habit formation, missing a single opportunity did not materially affect progress; what matters is getting back to it the next time.
 
@@ -1302,7 +1905,7 @@ We make Habit Forever, and we designed it so one miss does not wipe out the stor
 
 - Fill in a past day. Forgot to log yesterday's walk? Open the habit and tap the day to mark it done, or to log an amount for a number habit. Use this for days you actually did, not to rescue a streak.
 
-- Weekly and monthly targets. For habits like "gym three times a week", the streak counts weeks, not days, so rest days are not misses.
+- Weekly targets. For habits like "gym three times a week", the streak counts weeks, not days, so rest days are not misses. See weekly habit goals.
 
 Habit Forever is free for up to three habits, with no account, and your habit data stays on your device. To check in faster so misses happen less often, add a widget: see how to add a habit tracker widget on iPhone.
 
@@ -1407,7 +2010,7 @@ We make Habit Forever, so here is how it measures up against the checklist above
 
 - No ads. The app does not show ads.
 
-Habit Forever is free for up to three habits, with goals, reminders and notes. If you need habits synced across devices, an app with iCloud or account sync will suit you better; our comparison of the best habit tracker apps for iPhone shows which apps need an account. For questions about data, see our support page.
+Habit Forever is free for up to three habits, with goals, reminders and notes, and Pro has a one-time lifetime option (see habit trackers without a subscription). If you need habits synced across devices, an app with iCloud or account sync will suit you better; our comparison of the best habit tracker apps for iPhone shows which apps need an account. For questions about data, see our support page.
 
 ## The most private option of all
 
@@ -1435,6 +2038,106 @@ It means the app collects some data, such as purchase details, but the developer
 - Apple Developer: App privacy details on the App Store
 
 - Apple: Privacy labels
+
+---
+
+# How to track a habit you want to do less
+URL: https://habitforever.app/guides/track-a-habit-you-want-to-do-less.html
+Updated: 2026-11-18
+
+To cut back on a habit, track a limit instead of a target: "at most 2 cups of coffee a day" or "under 2 hours of screen time", where every day you stay under counts as a win. Pair the limit with an if-then plan for the moment the old habit usually starts, and name what you will do instead.
+
+Most habit trackers are built for doing more: more water, more steps, more pages. But a lot of what people want to change is about doing less. Coffee, scrolling, takeaway, impulse spending. A checklist with a tick for "did it" is the wrong shape for that, and I built limits into Habit Forever for exactly this reason. This guide covers the built-in tools first, then what the research says about breaking a habit, then how to track it.
+
+A note before we start: this is about everyday habits. If you are trying to stop drinking, smoking, gambling or using a drug, or a habit feels out of your control, please talk to a doctor or a support service. A tracker can sit alongside that help, but it is not treatment. In the UK, the NHS addiction support page lists where to start.
+
+## Built-in tools on iPhone
+
+Screen time is the one habit iPhone measures for you. Screen Time in Settings shows your daily average and how often you pick up your phone, and Time Allowances (App Limits on older iOS versions) let you set a daily budget for app categories such as social media or games. If screen time is your target, set that up first: it measures automatically, which no tracker can match.
+
+For most other habits, coffee, sweets, spending, there is nothing built in that counts them. A tally in the Notes app or on paper works: one mark per cup, and a line under the day when you stayed under your limit. Our printable habit tracker gives you a monthly grid for that.
+
+## What research says about breaking a habit
+
+Habits are triggered by situations: the same time, place, mood or preceding action. That is why willpower alone tends to lose. Two ideas from the research are worth using.
+
+If-then plans. The psychologist Peter Gollwitzer called them implementation intentions: a plan in the form "if situation Y happens, then I will do Z". His 1999 paper in American Psychologist described how linking a specific situation to a specific response helps people act on their goals, and a 2006 meta-analysis with Paschal Sheeran found a positive effect across 94 independent tests. A 2024 review of 642 tests by Sheeran, Listrom and Gollwitzer found the effects were larger when plans used the if-then format and when people were highly motivated to reach the goal. It is a helpful tool, not a guarantee.
+
+Name a replacement. In three experiments, Marieke Adriaanse, Gollwitzer and colleagues (2011) studied if-then plans that replace a habitual response with an alternative one in a critical situation, such as a snack habit. The plans removed the old habit's head start in the mind, but people only changed what they did when they also strongly wanted the alternative. In practice: pick a replacement you actually like.
+
+Put together, a good plan sounds like: "If I want a third coffee after lunch, then I will make a herbal tea." Or: "If I pick up my phone in bed, then I will put it on the charger across the room."
+
+## Set a limit, not zero (usually)
+
+Going from four coffees to none is hard, and one slip can feel like total failure. Going from four to two is a goal you can hit tomorrow. A limit also keeps the habit honest: you still see exactly how much you had, so the trend is visible even on a day you went over.
+
+- Daily limits suit habits that happen most days: coffee, screen time, sweets, daily spending.
+
+- Weekly limits suit habits that are fine now and then: takeaway meals, nights out, hours of gaming. A weekly limit leaves you free to choose the day.
+
+- A clean break suits a habit you want gone completely. Track the days without it rather than the slips.
+
+ 
+
+## How to track a limit in Habit Forever
+
+- Add a new habit, for example "Coffee".
+
+- Under Goal, choose Stay under.
+
+- Set the number and unit, such as at most 2 cups, and choose Each day or Each week.
+
+- Turn on One tap adds with 1, so each cup is a single tap on the habit's circle.
+
+The new habit list has a "Do less of" group with ready-made ideas: screen time under 2 hours a day, coffee under 2 cups, daily spending under a limit in your currency, and "No sweets", a check-off habit for a day without.
+
+Here is how a limit counts:
+
+- Entries add up. Log each cup or each purchase as it happens; the day's total is what counts.
+
+- A day with nothing logged counts as zero, so it is a success. You do not have to open the app to record "none today".
+
+- Going over shows as over, and that day breaks the streak. Your streak is the run of days (or weeks) you stayed at or under the limit.
+
+- The history stays honest. The day-by-day grid fills in the days you stayed under, and the number you logged is kept, so you can see a week of 3 cups become a week of 2.
+
+For a clean break, either set a limit of 0, so every day with nothing logged counts, or use a check-off habit that you tick for each day without. You can add a note to any check-in, which is a good place for what triggered a slip and what you will try next time.
+
+Reminders help here in a different way: set one for the time the urge usually hits, such as 3 pm for the afternoon coffee, as a prompt to use your if-then plan. Pro adds patterns such as your strongest days of the week, which can show when a limit is easiest and hardest to keep.
+
+## After a slip
+
+A day over the limit is information, not a verdict. Look at what happened (the time, the place, how you felt), adjust the if-then plan, and keep the limit for tomorrow. If you keep going over by a lot, the limit may be too ambitious for now: raise it a little, hold it for a few weeks, then lower it again. Read what to do when you break a streak for more on recovering from a bad day.
+
+Cutting back also works best with something new in its place. If you want to stack a good habit onto an existing moment, see habit stacking.
+
+## FAQ
+
+How do I track a habit I want to stop?
+Track a limit instead of a target, such as at most 2 cups of coffee a day, or for a clean break, track the days without it rather than the slips.
+
+Do I have to log days when I did not do the habit?
+No, in Habit Forever a day with nothing logged counts as zero, so it counts as a success for a limit.
+
+What is an if-then plan?
+An if-then plan, which researchers call an implementation intention, links a specific situation to a specific response, such as "if I want a third coffee after lunch, then I will make a herbal tea".
+
+Can a habit tracker help with addiction?
+A tracker is not treatment; if a habit involves alcohol, smoking, gambling or drugs, or feels out of your control, talk to a doctor or a support service.
+
+## Sources
+
+- Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. American Psychologist, 54(7), 493–503.
+
+- Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119.
+
+- Adriaanse, M. A., Gollwitzer, P. M., De Ridder, D. T. D., de Wit, J. B. F., & Kroese, F. M. (2011). Breaking habits with implementation intentions: A test of underlying processes. Personality and Social Psychology Bulletin, 37(4), 502–513.
+
+- Sheeran, P., Listrom, O., & Gollwitzer, P. M. (2024). The when and how of planning: Meta-analysis of the scope and components of implementation intentions in 642 tests. European Review of Social Psychology.
+
+- Apple Support: Set up Screen Time for yourself on iPhone
+
+- NHS: Addiction support
 
 ---
 
@@ -1504,7 +2207,7 @@ We make Habit Forever, a habit tracker for iPhone and iPad. Water is one of its 
 
 - From a widget: add the Habit widget to your Home Screen or Lock Screen and tap its check-in button. Each tap logs your one-tap amount. See how to add a habit tracker widget.
 
-- With Siri or Shortcuts: the "Check In Habit" action accepts an optional amount and note, so you can log 2 glasses by voice or build a Shortcut for your water bottle.
+- With Siri or Shortcuts: the "Check In Habit" action accepts an optional amount and note, so you can log 2 glasses by voice or build a Shortcut for your water bottle. See how to log habits with Siri and Shortcuts.
 
 ### See your progress
 
@@ -1563,6 +2266,106 @@ Yes, in Habit Forever you can set any unit for a number habit, including millili
 
 ---
 
+# How to track a "3 times a week" habit
+URL: https://habitforever.app/guides/weekly-habit-goals.html
+Updated: 2026-11-18
+
+To track a habit you want to do 3 times a week, give it a weekly goal instead of a daily one: the week counts as done once you reach 3, on whichever days suit you, and the streak counts weeks. If your days are fixed, such as Monday, Wednesday and Friday, schedule only those days so the others never count as misses.
+
+The gym, a long run, calling your parents, cooking at home: plenty of good habits are not daily. Track them with a daily checklist and every rest day looks like a failure, and the streak resets for no reason. A weekly goal fixes that. Here is how to set one up with what is already on your iPhone, and then how Habit Forever counts it.
+
+## First, decide which kind of weekly habit it is
+
+- Fixed days. You run on Monday, Wednesday and Friday. The habit belongs to those days.
+
+- Flexible days. You want three workouts a week, whenever they fit. Tuesday, Saturday and Sunday counts just as well.
+
+Flexible goals are kinder to a busy life, because a missed Monday can still be made up on Thursday. Fixed days are easier to plan around and to attach reminders to. Neither is better; pick the one that matches how your week really goes.
+
+## With built-in apps
+
+Reminders handles fixed days well. Create a reminder such as "Run", open its details, set a time and choose a custom repeat on the weekdays you want. It comes back on those days and you tick it off. What it cannot do is flexible days: there is no way to say "any three days this week", and it keeps no count of how many weeks you managed.
+
+Paper handles flexible days well. Draw one row per week and make a tally mark each time you go; three marks and the week is done. Our printable habit tracker works for this if you treat each row as a week. What paper cannot do is remind you on Thursday that you still have two to go.
+
+## Flexible days in Habit Forever: a weekly goal
+
+I built weekly goals into Habit Forever because "3 times a week" is one of the most natural goals there is. To set one up:
+
+- Tap to add a new habit and give it a name, such as "Run".
+
+- Under Goal, choose Reach a number.
+
+- Set it to at least 3, type or pick a unit such as "times" or "runs", and choose Each week.
+
+- Turn on One tap adds and set it to 1, so each tap of the habit's circle logs one session without a keypad.
+
+There is also a ready-made "Run: 3 runs a week" idea in the new habit list that fills all of this in for you.
+
+During the week, the habit shows how far along you are this week. Once you reach 3, the week counts as done, however the sessions were spread.
+
+### How the streak counts
+
+For a habit with a weekly goal, the streak is counted in weeks, not days. Each week in which you reached your goal adds one; a week in which you fell short ends the streak. A few details matter:
+
+- The current week is never held against you. On Wednesday with one session logged, your streak is not broken; the week is not over yet. Only a finished week that fell short breaks it.
+
+- You choose when a week starts. In Settings, "Week starts on" can be Monday, Sunday or Saturday, and the weekly count follows it.
+
+- The best streak is in weeks too, and the consistency figure becomes the share of recent weeks in which you reached the goal.
+
+- On the day-by-day grid, a week you completed is filled in as a whole week, so a run of good weeks reads as one solid band of color.
+
+Siri tells you the same thing: ask "What's my streak in Habit Forever" and the answer comes in weeks. See how to log habits with Siri and Shortcuts.
+
+ 
+
+## Fixed days in Habit Forever: a schedule
+
+If your habit belongs to specific days, keep it a simple check-off habit and change its Days from Every day to Weekdays, or tap Choose and pick the days. On the other days the habit shows as a rest day. As the app puts it: days off never break a streak. A Monday, Wednesday, Friday habit with all three done this week and last week is a streak of six, not a broken chain.
+
+Reminders follow the habit's days too, and stay quiet once you have checked in.
+
+## Weekly limits for things you want less of
+
+A weekly goal also works as a limit. "Stay under" with "Each week" suits habits that are fine in moderation but add up: takeaway meals, hours of gaming, money spent on a hobby. The week counts as a success as long as your total stays at or under the limit. See how to track a habit you want to do less for more on limits.
+
+New habits in Habit Forever take a daily or a weekly goal, not a monthly one. For something you do about once a month, such as paying a bill or a deep clean, a monthly repeating reminder in the Reminders app is the simpler tool.
+
+## Tips for a weekly habit that lasts
+
+- Set the goal you can hit in a bad week. If you sometimes manage four workouts and sometimes two, set three, or even two. A streak of hit weeks is worth more than an ambitious goal you miss half the time.
+
+- Plan your days on Sunday. A flexible goal still needs a plan; decide which days you will aim for, and treat the others as back-ups.
+
+- Do not save it all for the weekend. If the week is half gone and you have done none, do a short session today rather than hoping for three on Saturday.
+
+- Expect it to take time. Automaticity grows with repetitions, so a weekly habit usually takes longer to feel automatic than a daily one; see how long it takes to form a habit.
+
+Missed a week? It happens. Read what to do after a missed day; the same advice applies to a missed week.
+
+## FAQ
+
+How do I track a habit 3 times a week?
+Give it a weekly goal of 3 so the week counts as done once you reach 3 on any days, or, if your days are fixed, schedule the habit only on those days.
+
+Does a weekly habit break my streak on rest days?
+No, in Habit Forever a habit with a weekly goal counts its streak in weeks, and the current week is never held against you until it ends.
+
+Can I choose which day my week starts on?
+Yes, in Habit Forever's Settings, "Week starts on" can be Monday, Sunday or Saturday, and weekly goals follow it.
+
+Can the Reminders app track a 3 times a week habit?
+Reminders can repeat on fixed weekdays, but it cannot count "any three days this week" or show how many weeks you managed.
+
+## Sources
+
+- Apple Support: Create reminders on iPhone
+
+- Habit Forever on the App Store
+
+---
+
 # Habit Forever fact sheet
 URL: https://habitforever.app/press.html
 Updated: 2026-11-18
@@ -1591,7 +2394,7 @@ The facts about Habit Forever in one place, for writers, reviewers, list authors
 
  | Data | Habits, check-ins and notes are stored on the device. No iCloud sync. Pro can export and import a JSON backup file
 
- | Rating | 4.6★ on the App Store, from 17 ratings worldwide (checked November 2026)
+ | Rating | 4.6★ on the App Store, from 17 ratings worldwide
 
  | App Store | apps.apple.com/app/id6751973572
 
@@ -1601,7 +2404,7 @@ The facts about Habit Forever in one place, for writers, reviewers, list authors
 
 In one line: Habit Forever is a private habit tracker for iPhone that turns every day you show up into a colored square.
 
-In about 50 words: Habit Forever is a habit tracker for iPhone and iPad. Check in with one tap or log an amount, set a minimum, a limit or a range, and watch each habit fill a colorful grid of days. There’s no account, data stays on your device, and it’s free for three habits.
+In about 50 words: Habit Forever is a habit tracker for iPhone and iPad. Check in with one tap or log an amount, reach a number or stay under a limit, and watch each habit fill a colorful grid of days. There’s no account, data stays on your device, and it’s free for three habits.
 
 Longer:
 
@@ -1616,7 +2419,7 @@ Longer:
  
 - Two kinds of habit. Check-off habits (done or not), or number habits counted in pages, glasses, minutes, distance, money or a unit you name.
  
-- Flexible goals. A minimum, a maximum for things you want to do less of, or a target range. Daily, weekly or monthly, on every day or chosen days.
+- Four kinds of goal. Check it off, reach a number (8 glasses, 20 pages), stay under a limit for things you want less of (2 hours, 2 coffees), or just track a reading such as weight or mood. Goals are per day or per week, on every day, weekdays or chosen days, and days off never break a streak.
  
 - Progress you can see. Current and best streak, a consistency figure, and a colorful day-by-day grid for each habit, similar to a GitHub contribution graph. Milestone celebrations.
  
