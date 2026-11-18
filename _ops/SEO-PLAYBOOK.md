@@ -4,6 +4,23 @@ Site: https://habitforever.app (static HTML, GitHub Pages, repo Atabany/habit-fo
 Source of truth: `site/` in the app repo (~/indie/Checker/site) and the same tree in the site repo.
 Goal: more installs and Pro purchases from search engines and AI assistants (ChatGPT, Claude, Perplexity, Gemini, Copilot).
 
+## Infrastructure (2026-11-18)
+- **Source:** `site/` in the app repo Atabany/checker (private). **Deploy:** every push to `main` touching `site/`
+  runs `.github/workflows/deploy-site.yml`, which builds, validates and mirrors `site/` into the public Pages repo
+  Atabany/habit-forever-site (write deploy key on that repo, private half = secret `SITE_DEPLOY_KEY` in checker).
+  Manual fallback: `sh _ops/publish.sh "message"`. Never edit the Pages repo directly: the mirror overwrites it.
+- **Hosting:** GitHub Pages from habit-forever-site `main` /. Jekyll is on, so `_ops/` and `_src/` are not served.
+  Live at https://atabany.github.io/habit-forever-site/ until the custom domain is connected.
+- **Domain:** habitforever.app, unregistered on 2026-11-18 (Google Registry RDAP 404), Cloudflare price $8.20 first
+  year, $14.20/yr renewal, not premium. Owner buys it. Then: Cloudflare DNS-only records (4×A 185.199.108-111.153,
+  4×AAAA 2606:50c0:8000-8003::153, `www` CNAME atabany.github.io), `site/CNAME` = habitforever.app, Pages custom
+  domain + enforce HTTPS, then Google Search Console (Domain property, DNS TXT), Bing (BingSiteAuth.xml in `site/`),
+  IndexNow for every URL.
+- **Weekly routine:** Claude cloud routine "habitforever.app weekly SEO page", Mondays 05:00 UTC (09:00 Dubai),
+  claude-sonnet-5-5, repo Atabany/checker: https://claude.ai/code/routines/trig_01StHDT99Ej3q1mtvLGVXsPh
+  It writes one page, refreshes the rating, validates, pushes (deploys) and pings IndexNow.
+- **Off-site drafts** (owner posts): `marketing/WEBSITE_OUTREACH_DRAFTS.md` in the app repo (private, not in site/).
+
 ## How the site is built
 - Write or edit fragments in `_src/` (metadata comment + body; see the docstring in `_ops/build.py`).
 - `python3 _ops/build.py` writes every page, `sitemap.xml`, `llms.txt`, `llms-full.txt`, `robots.txt`.
