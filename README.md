@@ -1,5 +1,6 @@
 # habitforever.app
 
-Official website of Habit Forever, a habit tracker for iPhone and iPad.
-Source of truth: `site/` in the app repo; pages are generated from `_src/` by `_ops/build.py`
-(see `_ops/SEO-PLAYBOOK.md`). Validate with `python3 _ops/validate.py` before committing.
+Official website of Habit Forever, a habit tracker for iPhone and iPad: https://habitforever.app
+
+This repository holds the built site that GitHub Pages serves. It is generated and deployed automatically
+from the app's private repository; don't edit it here, because the next deploy overwrites it.
