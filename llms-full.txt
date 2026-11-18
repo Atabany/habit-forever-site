@@ -747,7 +747,7 @@ Yes, Habit Forever Pro is available as a one-time lifetime purchase as well as y
 
 # Habit tracker comparisons
 URL: https://habitforever.app/compare/
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 Fair comparisons of habit tracker apps for iPhone. I make Habit Forever, so I say so up front, and I point out when another app is the better fit.
 
@@ -1684,7 +1684,7 @@ Starting with one to three habits makes it much easier to keep going, and you ca
 
 # Habit guides
 URL: https://habitforever.app/guides/
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 Clear, practical answers about building habits and tracking them on iPhone. Built-in options come first; the app is mentioned where it genuinely helps.
 
