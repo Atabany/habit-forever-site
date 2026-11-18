@@ -29,7 +29,7 @@ STORE_NAME = "Habit Forever: Streak Tracker"
 FORMER_NAME = "Habit Streak Tracker: Routines"
 AUTHOR = "Mohamed Elatabany"
 UPDATED = "2026-10-22"
-CSS_VERSION = 3
+CSS_VERSION = 4
 # Worldwide App Store rating (sum of every storefront). Refresh with: python3 _ops/ratings.py --write
 RATING, RATING_COUNT = "4.6", 17
 RATING_CHECKED = "2026-11-18"
@@ -305,7 +305,12 @@ def page(rel, meta, body):
     else:  # home / bare
         main = f'<main id="main">{body}</main>'
 
-    scripts = "".join(f'<script src="{prefix}{s}" defer></script>' for s in meta.get("scripts", "").split())
+    scripts = "".join(f'<script src="{prefix}{s}" defer></script>' for s in meta.get("scripts", "").split() + ["assets/app-bar.js"])
+    app_bar = f'''<div class="app-bar" data-app-bar hidden>
+  <img class="app-bar-icon" src="{prefix}assets/icon-96.png" width="40" height="40" alt="">
+  <p class="app-bar-text"><strong>Habit Forever</strong><span><span class="stars" aria-hidden="true">★</span> {RATING} · Free for 3 habits</span></p>
+  <a class="badge-link" href="{campaign(tag[:36] + '-bar')}"><img src="{prefix}assets/app-store-badge.svg" width="120" height="40" alt="Download Habit Forever on the App Store"></a>
+</div>'''
     robots = "noindex, follow" if noindex else "index, follow, max-image-preview:large"
     t, d = html.escape(title, quote=True), html.escape(desc, quote=True)
     canonical = "" if noindex else f'<link rel="canonical" href="{url}">'
@@ -313,7 +318,7 @@ def page(rel, meta, body):
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{t}</title>
 <meta name="description" content="{d}">
 {canonical}
@@ -347,6 +352,7 @@ def page(rel, meta, body):
 {header}
 {main}
 {footer}
+{app_bar if not noindex else ""}
 </body>
 </html>
 ''', url, title, desc, plain(meta.get("lead", "")), noindex, updated, body
