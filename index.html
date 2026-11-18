@@ -27,7 +27,8 @@
 <meta name="twitter:image" content="https://habitforever.app/assets/og.png">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-<link rel="stylesheet" href="assets/style.css?v=5">
+<link rel="stylesheet" href="assets/style.css?v=6">
+<link rel="preload" as="image" href="assets/film-poster.webp" fetchpriority="high">
 <script type="application/ld+json">{
  "@context": "https://schema.org",
  "@graph": [
@@ -168,15 +169,28 @@
   <div class="wrap header-row">
     <a class="brand" href="index.html"><img src="assets/icon-96.png" width="32" height="32" alt=""><span>Habit Forever</span></a>
     <nav class="main-nav" aria-label="Main"><a href="guides/index.html">Guides</a><a href="tools/index.html">Tools</a><a href="compare/index.html">Compare</a><a href="about.html">About</a></nav>
+    <details class="nav-menu"><summary>Menu</summary><nav aria-label="Menu"><a href="guides/index.html">Guides</a><a href="tools/index.html">Tools</a><a href="compare/index.html">Compare</a><a href="about.html">About</a><a href="press.html">Fact sheet</a><a href="support.html">Support</a></nav></details>
     <a class="badge-link header-badge" href="https://apps.apple.com/app/apple-store/id6751973572?pt=127826363&amp;ct=web-home&amp;mt=8"><img src="assets/app-store-badge.svg" width="120" height="40" alt="Download on the App Store"></a>
   </div>
 </header>
 <main id="main"><section class="hero">
   <div class="wrap hero-grid">
-    <div>
-      <p class="eyebrow">Habit Forever · the habit tracker for iPhone and iPad</p>
+    <div class="hero-media">
+      <div class="hero-film film-frame">
+        <video width="640" height="866" muted loop playsinline controls preload="auto" poster="assets/film-poster.webp" aria-label="Habit Forever on iPhone: checking in on habits, logging 8 glasses of water, a reminder, a 21-day streak celebration and a habit's progress page">
+          <source src="assets/film.mp4" type="video/mp4">
+        </video>
+        <button class="film-toggle" type="button" hidden>Play</button>
+      </div>
+      <div class="grid-art" aria-hidden="true">
+        <p>Read · 12 weeks</p>
+        <div class="squares"><i class="on" style="--c:var(--c3);--d:0"></i><i class="on" style="--c:var(--c3);--d:1"></i><i></i><i class="on" style="--c:var(--c3);--d:3"></i><i class="on" style="--c:var(--c3);--d:4"></i><i class="on" style="--c:var(--c3);--d:5"></i><i></i><i class="on" style="--c:var(--c3);--d:7"></i><i class="on" style="--c:var(--c3);--d:8"></i><i class="on" style="--c:var(--c3);--d:9"></i><i class="on" style="--c:var(--c3);--d:10"></i><i></i><i class="on" style="--c:var(--c3);--d:12"></i><i></i><i class="on" style="--c:var(--c3);--d:14"></i><i class="on" style="--c:var(--c3);--d:15"></i><i class="on" style="--c:var(--c3);--d:16"></i><i class="on" style="--c:var(--c3);--d:17"></i><i class="on" style="--c:var(--c3);--d:18"></i><i></i><i class="on" style="--c:var(--c3);--d:20"></i><i class="on" style="--c:var(--c3);--d:21"></i><i class="on" style="--c:var(--c3);--d:22"></i><i class="on" style="--c:var(--c3);--d:23"></i><i></i><i class="on" style="--c:var(--c3);--d:25"></i><i class="on" style="--c:var(--c3);--d:26"></i><i class="on" style="--c:var(--c3);--d:27"></i><i></i><i class="on" style="--c:var(--c3);--d:29"></i><i class="on" style="--c:var(--c3);--d:30"></i><i class="on" style="--c:var(--c3);--d:31"></i><i class="on" style="--c:var(--c3);--d:32"></i><i class="on" style="--c:var(--c3);--d:33"></i><i class="on" style="--c:var(--c3);--d:34"></i><i class="on" style="--c:var(--c3);--d:35"></i><i class="on" style="--c:var(--c3);--d:36"></i><i class="on" style="--c:var(--c3);--d:37"></i><i class="on" style="--c:var(--c3);--d:38"></i><i></i><i class="on" style="--c:var(--c3);--d:40"></i><i class="on" style="--c:var(--c3);--d:41"></i><i class="on" style="--c:var(--c3);--d:42"></i><i class="on" style="--c:var(--c3);--d:43"></i><i></i><i class="on" style="--c:var(--c3);--d:45"></i><i class="on" style="--c:var(--c3);--d:46"></i><i class="on" style="--c:var(--c3);--d:47"></i><i class="on" style="--c:var(--c3);--d:48"></i><i class="on" style="--c:var(--c3);--d:49"></i><i class="on" style="--c:var(--c3);--d:50"></i><i class="on" style="--c:var(--c3);--d:51"></i><i class="on" style="--c:var(--c3);--d:52"></i><i></i><i class="on" style="--c:var(--c3);--d:54"></i><i class="on" style="--c:var(--c3);--d:55"></i><i class="on" style="--c:var(--c3);--d:56"></i><i class="on" style="--c:var(--c3);--d:57"></i><i class="on" style="--c:var(--c3);--d:58"></i><i class="on" style="--c:var(--c3);--d:59"></i></div>
+      </div>
+    </div>
+    <div class="hero-copy">
+      <p class="eyebrow">The habit tracker for iPhone and iPad</p>
       <h1>Small habits, every day, <em>in color.</em></h1>
-      <p class="lead">Habit Forever turns each day you show up into a colored square. Check in with one tap, count glasses or pages, set reminders, and watch your streaks grow into a picture of your year.</p>
+      <p class="lead">Check in with one tap and every day you show up becomes a colored square. Count glasses or pages, set reminders, and watch your year fill in.</p>
       <div class="hero-cta">
         <img class="app-icon" src="assets/icon-96.png" width="72" height="72" alt="Habit Forever app icon">
         <a class="badge-link" href="https://apps.apple.com/app/apple-store/id6751973572?pt=127826363&amp;ct=web-home&amp;mt=8"><img src="assets/app-store-badge.svg" width="162" height="54" alt="Download on the App Store"></a>
@@ -187,35 +201,6 @@
         <img src="assets/qr-app-store.svg" width="96" height="96" alt="QR code that opens Habit Forever on the App Store">
         <p><strong>On a computer?</strong> Point your iPhone camera here to open Habit Forever in the App Store.</p>
       </div>
-    </div>
-    <div class="hero-visual">
-      <img class="phone" src="assets/screen-today.webp" width="480" height="1014" alt="Habit Forever Today screen in Grid layout: eight habits, each with a colored grid of days and a check-in button" fetchpriority="high">
-      <div class="grid-art" aria-hidden="true">
-        <p>Read · 12 weeks</p>
-        <div class="squares"><i class="on" style="--c:var(--c3);--d:0"></i><i class="on" style="--c:var(--c3);--d:1"></i><i></i><i class="on" style="--c:var(--c3);--d:3"></i><i class="on" style="--c:var(--c3);--d:4"></i><i class="on" style="--c:var(--c3);--d:5"></i><i></i><i class="on" style="--c:var(--c3);--d:7"></i><i class="on" style="--c:var(--c3);--d:8"></i><i class="on" style="--c:var(--c3);--d:9"></i><i class="on" style="--c:var(--c3);--d:10"></i><i></i><i class="on" style="--c:var(--c3);--d:12"></i><i></i><i class="on" style="--c:var(--c3);--d:14"></i><i class="on" style="--c:var(--c3);--d:15"></i><i class="on" style="--c:var(--c3);--d:16"></i><i class="on" style="--c:var(--c3);--d:17"></i><i class="on" style="--c:var(--c3);--d:18"></i><i></i><i class="on" style="--c:var(--c3);--d:20"></i><i class="on" style="--c:var(--c3);--d:21"></i><i class="on" style="--c:var(--c3);--d:22"></i><i class="on" style="--c:var(--c3);--d:23"></i><i></i><i class="on" style="--c:var(--c3);--d:25"></i><i class="on" style="--c:var(--c3);--d:26"></i><i class="on" style="--c:var(--c3);--d:27"></i><i></i><i class="on" style="--c:var(--c3);--d:29"></i><i class="on" style="--c:var(--c3);--d:30"></i><i class="on" style="--c:var(--c3);--d:31"></i><i class="on" style="--c:var(--c3);--d:32"></i><i class="on" style="--c:var(--c3);--d:33"></i><i class="on" style="--c:var(--c3);--d:34"></i><i class="on" style="--c:var(--c3);--d:35"></i><i class="on" style="--c:var(--c3);--d:36"></i><i class="on" style="--c:var(--c3);--d:37"></i><i class="on" style="--c:var(--c3);--d:38"></i><i></i><i class="on" style="--c:var(--c3);--d:40"></i><i class="on" style="--c:var(--c3);--d:41"></i><i class="on" style="--c:var(--c3);--d:42"></i><i class="on" style="--c:var(--c3);--d:43"></i><i></i><i class="on" style="--c:var(--c3);--d:45"></i><i class="on" style="--c:var(--c3);--d:46"></i><i class="on" style="--c:var(--c3);--d:47"></i><i class="on" style="--c:var(--c3);--d:48"></i><i class="on" style="--c:var(--c3);--d:49"></i><i class="on" style="--c:var(--c3);--d:50"></i><i class="on" style="--c:var(--c3);--d:51"></i><i class="on" style="--c:var(--c3);--d:52"></i><i></i><i class="on" style="--c:var(--c3);--d:54"></i><i class="on" style="--c:var(--c3);--d:55"></i><i class="on" style="--c:var(--c3);--d:56"></i><i class="on" style="--c:var(--c3);--d:57"></i><i class="on" style="--c:var(--c3);--d:58"></i><i class="on" style="--c:var(--c3);--d:59"></i></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="film-band" aria-labelledby="film-h">
-  <div class="wrap film-grid">
-    <div>
-      <h2 id="film-h">See it in 25 seconds</h2>
-      <p>Real screens from the app, nothing mocked up: a morning with three habits, from the first check-in to a 21-day streak.</p>
-      <ol class="film-chapters">
-        <li><b>0:00</b><span>Check in on Read with one tap</span></li>
-        <li><b>0:05</b><span>Log water a glass at a time until you hit 8</span></li>
-        <li><b>0:09</b><span>A reminder for the habit still left today</span></li>
-        <li><b>0:13</b><span>All done, and a 21-day streak worth celebrating</span></li>
-        <li><b>0:18</b><span>The habit’s page: streaks, consistency and your strongest day</span></li>
-      </ol>
-    </div>
-    <div class="film-frame">
-      <video width="640" height="866" muted loop playsinline controls preload="none" poster="assets/film-poster.webp" aria-label="Habit Forever on iPhone: checking in on Read, logging 8 glasses of water, a Morning walk reminder, a 21-day streak celebration and the habit's progress page">
-        <source src="assets/film.mp4" type="video/mp4">
-      </video>
-      <button class="film-toggle" type="button" hidden>Play</button>
     </div>
   </div>
 </section>

@@ -9,7 +9,7 @@
   var userPaused = !!calm, visible = false;
   v.removeAttribute('controls');
   b.hidden = false;
-  function label() { var on = !v.paused; b.textContent = on ? 'Pause' : 'Play'; b.setAttribute('aria-label', on ? 'Pause the film' : 'Play the film'); }
+  function label() { var on = !v.paused; b.textContent = ''; b.dataset.state = on ? 'playing' : 'paused'; b.setAttribute('aria-label', on ? 'Pause the film' : 'Play the film'); }
   function sync() { if (visible && !userPaused) { v.preload = 'auto'; var p = v.play(); if (p && p.catch) p.catch(function () {}); } else { v.pause(); } }
   b.addEventListener('click', function () { userPaused = !v.paused; if (!userPaused) visible = true; sync(); });
   v.addEventListener('play', label); v.addEventListener('pause', label);
