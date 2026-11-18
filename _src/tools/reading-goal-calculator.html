@@ -1,0 +1,120 @@
+<!--
+title: Reading Goal Calculator: Pages a Day for N Books a Year
+description: How many pages a day to read 12, 24 or 52 books a year? Turn books into pages and minutes a day, or back, with your own dates and reading speed.
+h1: Reading goal calculator
+lead: To read 12 books a year, read about 10 pages a day, or roughly 11 minutes at an average adult reading speed; 24 books takes about 20 pages (23 minutes) and 52 books about 43 pages (49 minutes). That assumes 300-page books with 275 words a page. Change any number below and the others follow.
+layout: tool
+published: 2026-11-18
+updated: 2026-11-18
+scripts: assets/reading-calc.js
+-->
+<div class="tool-box" id="reading">
+  <p class="small-note" style="margin-top:0">Type in any of the three boxes; the other two update.</p>
+  <div class="row">
+    <div class="field">
+      <label for="r-books">Books to read</label>
+      <input type="number" id="r-books" min="0" max="2000" step="1" value="24" inputmode="decimal">
+    </div>
+    <div class="field">
+      <label for="r-pages">Pages a day</label>
+      <input type="number" id="r-pages" min="0" max="2000" step="0.1" value="19.7" inputmode="decimal">
+    </div>
+    <div class="field">
+      <label for="r-mins">Minutes a day</label>
+      <input type="number" id="r-mins" min="0" max="1440" step="0.1" value="22.8" inputmode="decimal">
+    </div>
+  </div>
+  <div class="row">
+    <div class="field">
+      <label for="r-start">Start date</label>
+      <input type="date" id="r-start">
+    </div>
+    <div class="field">
+      <label for="r-end">Finish date</label>
+      <input type="date" id="r-end">
+    </div>
+    <div class="field">
+      <label for="r-dpw">Days I read each week</label>
+      <select id="r-dpw">
+        <option>7</option><option>6</option><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option>
+      </select>
+    </div>
+  </div>
+  <details class="tool-more">
+    <summary class="more-summary">Book length and reading speed</summary>
+    <div class="row">
+      <div class="field">
+        <label for="r-ppb">Pages per book</label>
+        <input type="number" id="r-ppb" min="10" max="3000" step="10" value="300" inputmode="numeric">
+      </div>
+      <div class="field">
+        <label for="r-wpp">Words per page</label>
+        <input type="number" id="r-wpp" min="50" max="1000" step="5" value="275" inputmode="numeric">
+      </div>
+      <div class="field">
+        <label for="r-wpm">Reading speed (words a minute)</label>
+        <input type="number" id="r-wpm" min="50" max="1000" step="1" value="238" inputmode="numeric">
+      </div>
+    </div>
+    <p class="small-note">238 words a minute is the average adult silent reading rate for non-fiction in Brysbaert’s 2019 review; fiction averaged 260. To find your own, read for 5 minutes, count the pages, and multiply by your words per page.</p>
+  </details>
+  <div id="r-result" aria-live="polite">
+    <p class="note">Everything is calculated in your browser; nothing is sent anywhere or saved.</p>
+  </div>
+  <noscript><p>The calculator needs JavaScript. The tables below have the answers for common goals.</p></noscript>
+</div>
+
+<h2 id="pages-per-day">Pages and minutes a day for common goals</h2>
+<p>For one year (365 days), reading every day, with 300-page books, 275 words a page and 238 words a minute:</p>
+<table>
+  <thead><tr><th>Books a year</th><th>Pages a day</th><th>Minutes a day</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>0.8</td><td>0.9</td></tr>
+    <tr><td>6</td><td>4.9</td><td>5.7</td></tr>
+    <tr><td>12 (one a month)</td><td>9.9</td><td>11.4</td></tr>
+    <tr><td>20</td><td>16.4</td><td>19.0</td></tr>
+    <tr><td>24 (two a month)</td><td>19.7</td><td>22.8</td></tr>
+    <tr><td>30</td><td>24.7</td><td>28.5</td></tr>
+    <tr><td>36 (three a month)</td><td>29.6</td><td>34.2</td></tr>
+    <tr><td>50</td><td>41.1</td><td>47.5</td></tr>
+    <tr><td>52 (one a week)</td><td>42.7</td><td>49.4</td></tr>
+    <tr><td>100</td><td>82.2</td><td>95.0</td></tr>
+  </tbody>
+</table>
+<p>Or start from the time you have. Same assumptions:</p>
+<table>
+  <thead><tr><th>Minutes a day</th><th>Pages a day</th><th>Books a year</th></tr></thead>
+  <tbody>
+    <tr><td>10</td><td>8.7</td><td>10.5</td></tr>
+    <tr><td>15</td><td>13.0</td><td>15.8</td></tr>
+    <tr><td>20</td><td>17.3</td><td>21.1</td></tr>
+    <tr><td>30</td><td>26.0</td><td>31.6</td></tr>
+    <tr><td>45</td><td>38.9</td><td>47.4</td></tr>
+    <tr><td>60</td><td>51.9</td><td>63.2</td></tr>
+  </tbody>
+</table>
+
+<h2 id="how-it-works">How it works</h2>
+<ul>
+  <li><strong>Reading days</strong> = days from the start date to the finish date, counting both, × days you read each week ÷ 7.</li>
+  <li><strong>Pages a day</strong> = books × pages per book ÷ reading days.</li>
+  <li><strong>Minutes a day</strong> = pages a day × words per page ÷ words a minute.</li>
+</ul>
+<p>The 300 pages per book and 275 words per page are my assumptions, not measured averages: books vary a lot, so change them to match what you read. A dense paperback can hold far more words on a page than a large-print or illustrated book. The reading speed comes from research: Marc Brysbaert’s 2019 meta-analysis of 190 studies with 18,573 participants put adult silent reading in English at 238 words a minute for non-fiction and 260 for fiction. The often-quoted 300 words a minute is higher than what most people read.</p>
+
+<h2 id="make-it-stick">Make the goal a daily habit</h2>
+<p>A yearly number is easy to set and easy to forget. A small daily number is the one you can act on tonight: 10 pages before bed is a book a month. Tie it to something you already do, like after dinner or on the train, and count pages rather than books, so a slow week with a long book still shows progress. More ideas in <a href="../guides/build-a-reading-habit.html">how to build a reading habit</a>. If you miss a day, carry on the next; one gap doesn’t undo a habit, as I explain in <a href="../guides/missed-a-day-habit-streak.html">what a broken streak really means</a>.</p>
+
+<!--CTA:Count your pages every day|In Habit Forever, make reading a number habit in pages with a daily minimum, check in from a widget, and see every reading day as a colored square.-->
+
+<h2 id="faq">FAQ</h2>
+<details><summary>How many pages a day do I need to read 52 books a year?</summary><p>About 43 pages a day, or roughly 49 minutes at 238 words a minute, if your books average 300 pages with 275 words a page. Shorter books or a faster reading speed bring that down.</p></details>
+<details><summary>How many pages a day is 12 books a year?</summary><p>About 10 pages a day, roughly 11 minutes, with 300-page books. That is one book a month.</p></details>
+<details><summary>What is the average reading speed?</summary><p>Brysbaert’s 2019 review of 190 studies found that adults read English silently at about 238 words a minute for non-fiction and 260 for fiction. Your own speed depends on the text and why you’re reading it.</p></details>
+<details><summary>Do audiobooks count?</summary><p>That’s your call. In the calculator, set the reading speed to the narrator’s pace instead, or track minutes rather than pages.</p></details>
+
+<h2 id="sources">Sources</h2>
+<ul>
+  <li>Brysbaert, M. (2019). How many words do we read per minute? A review and meta-analysis of reading rate. <em>Journal of Memory and Language</em>, 109, 104047. <a href="https://doi.org/10.1016/j.jml.2019.104047">doi.org/10.1016/j.jml.2019.104047</a></li>
+</ul>
+<p class="byline" style="border:0">Made by <a href="../about.html" rel="author">Mohamed Elatabany</a>, maker of Habit Forever · Updated <time datetime="2026-11-18">November 2026</time></p>

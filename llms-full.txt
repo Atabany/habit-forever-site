@@ -1630,7 +1630,7 @@ It runs on iPhone and iPad with iOS 17 or later. It is free for up to three habi
 
 - Start with one to three habits. More than that in week one is the most common reason people stop.
 
-- Make each habit specific. "Read 10 pages after dinner" beats "read more" (see how to build a reading habit). Tying a habit to something you already do is called habit stacking.
+- Make each habit specific. "Read 10 pages after dinner" beats "read more" (see how to build a reading habit). Tying a habit to something you already do is called habit stacking. The reading goal calculator turns a yearly book goal into pages a day, and the habit cost calculator shows what a habit you want less of costs you in a year.
 
 - Put the tracker where you will see it. A Home Screen or Lock Screen widget turns a glance at your phone into a reminder. See how to add a habit tracker widget.
 
@@ -1901,7 +1901,7 @@ We make Habit Forever, and we designed it so one miss does not wipe out the stor
 
 - Consistency. Each habit shows how often you hit your planned days over recent weeks. Days you did not schedule the habit for are not counted against you.
 
-- A day-by-day grid. Every habit has a colorful grid of your history. One empty square in a sea of color tells the real story far better than a zero.
+- A day-by-day grid. Every habit has a colorful grid of your history. One empty square in a sea of color tells the real story far better than a zero. You can try it with the habit grid maker.
 
 - Fill in a past day. Forgot to log yesterday's walk? Open the habit and tap the day to mark it done, or to log an amount for a number habit. Use this for days you actually did, not to rescue a streak.
 
@@ -2237,7 +2237,7 @@ One thing to know: Habit Forever does not connect to Apple Health. Water you log
 
 - Start below your goal. If you drink 3 glasses now, aim for 5 before 8.
 
-- Ask a professional about your needs. How much water you need depends on your body, activity and climate.
+- Ask a professional about your needs. How much water you need depends on your body, activity and climate. For a starting number from official guidance, try the water intake calculator.
 
 For more on making it stick, read how long it takes to form a habit.
 
@@ -2624,6 +2624,152 @@ Questions: atabany.apps@gmail.com.
 
 ---
 
+# Habit cost calculator
+URL: https://habitforever.app/tools/habit-cost-calculator.html
+Updated: 2026-11-18
+
+A habit that costs 5 a day costs 1,825 a year and 18,250 over ten years, in whatever currency you pay; an hour a day of scrolling adds up to 365 hours a year, about 15 full days. Enter your own habit to see its cost in money and time, and what cutting back would save.
+
+Habit
+ 
+ Coffee from a café
+ Takeaway or delivery
+ Cigarettes (packs)
+ Energy drinks or soda
+ A subscription
+ Scrolling on my phone
+ Something else
+ 
+ 
+ 
+ Currency
+ 
+ USDEURGBPCADAUDNZD
+ AEDSARQARKWDEGPINR
+ PKRJPYCNYKRWSGDHKD
+ CHFSEKNOKDKKPLNTRY
+ BRLMXNZARNGN
+ 
+ 
+ 
+ 
+ 
+ Cost each time
+ 
+ 
+ 
+ How many times
+ 
+ 
+ 
+ Per
+ 
+ day
+ week
+ month
+ year
+ 
+ 
+ 
+ 
+ 
+ Minutes each time (optional)
+ 
+ 
+ 
+ Cut back by 50%
+ 
+ 
+ 
+ 
+ Enter a cost and how often. Everything is calculated in your browser; nothing is sent anywhere or saved.
+
+ 
+ The calculator needs JavaScript. The tables below have the totals for common amounts.
+
+## What a habit costs over time
+
+Amounts are in your own currency: a habit that costs 5 a day costs the same multiple whether that is dollars, euros, pounds or dirhams. A year is 365 days and a month is a twelfth of a year.
+
+ | | Cost a day | A week | A month | A year | 10 years
+
+ 
+ | 1 | 7 | 30.42 | 365 | 3,650
+
+ | 2 | 14 | 60.83 | 730 | 7,300
+
+ | 3 | 21 | 91.25 | 1,095 | 10,950
+
+ | 4.50 | 31.50 | 136.88 | 1,642.50 | 16,425
+
+ | 5 | 35 | 152.08 | 1,825 | 18,250
+
+ | 10 | 70 | 304.17 | 3,650 | 36,500
+
+ | 15 | 105 | 456.25 | 5,475 | 54,750
+
+ | 20 | 140 | 608.33 | 7,300 | 73,000
+
+ 
+
+## What a habit costs in time
+
+Time is the cost people forget. “Waking days” assumes 16 waking hours a day.
+
+ | | Time a day | Hours a year | Full days a year | Waking days a year
+
+ 
+ | 15 minutes | 91 | 3.8 | 5.7
+
+ | 30 minutes | 183 | 7.6 | 11.4
+
+ | 1 hour | 365 | 15.2 | 22.8
+
+ | 2 hours | 730 | 30.4 | 45.6
+
+ | 3 hours | 1,095 | 45.6 | 68.4
+
+ | 4 hours | 1,460 | 60.8 | 91.2
+
+ 
+
+## How it works
+
+ 
+- Times a year = how many times × 365 for a day, × 365 ÷ 7 for a week, × 12 for a month, or × 1 for a year.
+ 
+- Cost a year = cost each time × times a year. A week is that ÷ (365 ÷ 7), a month ÷ 12, and 10 years × 10.
+ 
+- Time a year = minutes each time × times a year ÷ 60, in hours; ÷ 24 for full days, ÷ 16 for waking days.
+ 
+- Cutting back by X% saves X% of each figure, because the cost scales with how often you do it.
+
+It’s simple arithmetic on purpose. It ignores price rises, and it doesn’t add interest you might earn by saving the money instead, so long-run totals are, if anything, on the low side.
+
+## Cutting back without quitting
+
+You don’t have to quit to save. A habit you do half as often costs half as much, and a limit you can keep, such as “two coffees a day” or “no more than 30 minutes of social media”, often lasts longer than an all-or-nothing rule. Pick a number a little below what you do now, count it every day, and lower it once it feels easy. My guide on tracking a habit you want to do less goes into how. If you slip one day, carry on the next; a single miss doesn’t undo the habit, as I explain in what a broken streak really means.
+
+ 
+
+## FAQ
+
+How much does a coffee a day cost a year?
+Multiply the price by 365. At 5 a cup in your currency, one coffee a day is 1,825 a year and 18,250 over ten years. Two a day doubles it.
+
+How much time does an hour of scrolling a day add up to?
+365 hours a year, which is about 15 full days or nearly 23 waking days of 16 hours.
+
+Does the calculator include inflation or interest?
+No. It multiplies today’s cost by how often you pay it, so real long-run totals are usually higher.
+
+Is my data saved?
+No. The numbers stay in your browser; nothing is uploaded or stored.
+
+Made by Mohamed Elatabany, maker of Habit Forever · Updated November 2026
+
+---
+
 # How long until it’s a habit? Calculator
 URL: https://habitforever.app/tools/habit-formation-calculator.html
 Updated: 2026-10-22
@@ -2702,15 +2848,159 @@ Made by Mohamed Elatabany, maker of Habit Forever · Updated October 2026
 
 ---
 
+# Habit grid maker
+URL: https://habitforever.app/tools/habit-grid-maker.html
+Updated: 2026-11-18
+
+Type a habit, pick a colour, then tap or drag across the days you did it, or fill them from a start date with a done rate. You get a year of colored squares, like a GitHub contribution graph, with your streaks counted, ready to download as a PNG.
+
+Habit name
+ 
+ 
+ 
+ Colour
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Range
+ 
+ Last 52 weeks
+ Last 26 weeks
+ Last 12 weeks
+ 2026
+ 2025
+ 2024
+ 
+ 
+ 
+ Weeks start on
+ 
+ Monday
+ Sunday
+ 
+ 
+ 
+ Image style
+ 
+ Light
+ Dark
+ 
+ 
+ 
+ 
+ Fill automatically (optional)
+ 
+ 
+ Started on
+ 
+ 
+ 
+ Done on 80% of days
+ 
+ 
+ 
+ Fill days Clear all
+
+ 
+ Tap a square to switch a day on or off, or drag across squares with a mouse. With a keyboard, use the arrow keys to move and Space to switch a day.
+
+ 
+ The grid maker needs JavaScript to draw your squares.
+
+ 
+ 
+ Download PNG
+
+ The grid maker needs JavaScript. Nothing you make is uploaded; the image is drawn in your browser.
+
+## How full a year of squares gets
+
+A done rate turns into squares like this. A year has 365 squares (366 in a leap year), arranged in 52 or 53 columns of weeks.
+
+ | | Done rate | Squares filled in a year | In a 30-day month | Days a week, on average
+
+ 
+ | 100% | 365 | 30 | 7
+
+ | 90% | 329 | 27 | 6.3
+
+ | 80% | 292 | 24 | 5.6
+
+ | 70% | 256 | 21 | 4.9
+
+ | 50% | 183 | 15 | 3.5
+
+ | 3 days a week | 156 | 13 | 3
+
+ 
+
+## How it works
+
+ 
+- Columns are weeks, rows are weekdays. The first column starts on the Monday (or Sunday) on or before the first day of the range, so a year needs 53 columns.
+ 
+- Fill automatically switches on about the chosen share of days from the start date to today, at random but repeatably, so the same settings give the same grid. Days before the start date stay empty.
+ 
+- Streaks. The current streak counts back from today, or from yesterday if today isn’t marked yet. The best streak is the longest unbroken run. Consistency is days done ÷ days so far in the range.
+ 
+- The PNG is drawn on a canvas in your browser at double resolution, with the habit name, the counts and a small habitforever.app credit. Nothing is uploaded.
+
+## Why a grid beats a streak counter
+
+A streak number only tells you about the last break. A grid shows the whole pattern: the strong months, the weekend gaps, the week you were ill and came straight back. That matters, because missing a single day didn’t materially affect habit formation in Lally and colleagues’ 2010 study. One empty square in a long run of color looks like what it is, a blip. More on that in what a broken streak really means, and how long the squares usually take to add up to a habit in how long it takes to form a habit.
+
+ 
+
+## FAQ
+
+What is a habit grid?
+A habit grid shows one square per day, colored when you did the habit, laid out in columns of weeks like a GitHub contribution graph. It makes a year of consistency visible at a glance.
+
+Can I make a grid for a past year?
+Yes. Choose a year in the Range menu, then tap the days you did it or fill them from a start date with a done rate.
+
+Is anything I make uploaded?
+No. The grid and the PNG are made in your browser, and nothing is sent to a server or saved.
+
+Can I use the image anywhere?
+Yes. The PNG is yours to share or print. It carries a small habitforever.app credit in the corner.
+
+## Sources
+
+ 
+- Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. doi.org/10.1002/ejsp.674
+
+Made by Mohamed Elatabany, maker of Habit Forever · Updated November 2026
+
+---
+
 # Free habit tools
 URL: https://habitforever.app/tools/
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 Small, free tools that run entirely in your browser. No sign-up, and nothing you type is uploaded.
 
+- ToolHabit cost calculatorWhat a daily coffee, takeaway, cigarettes, subscription or scrolling cost a week, month, year and 10 years, in money and time, and what cutting back saves.
+
 - ToolHow long until it’s a habit? CalculatorEnter your start date to see when a new habit typically becomes automatic, based on research: median 66 days, range 18–254 days.
 
+- ToolHabit grid makerMake a GitHub-style year-in-squares grid for any habit. Pick a colour, tap the days you did it or fill from a start date, then download a PNG.
+
 - ToolPrintable habit trackerMake a free printable monthly habit tracker: add your habits, pick a month, then print it or save it as a PDF. No sign-up, nothing uploaded.
+
+- ToolReading goal calculatorHow many pages a day to read 12, 24 or 52 books a year? Turn books into pages and minutes a day, or back, with your own dates and reading speed.
+
+- ToolHow much water should I drink a day?Free water intake calculator from US National Academies, EFSA and NHS guidance. Adjusts for exercise and heat; shows litres, ounces and glasses.
 
 ---
 
@@ -2788,3 +3078,317 @@ Is my habit list uploaded anywhere?
 No. The sheet is built in your browser and nothing is sent to a server or stored.
 
 Made by Mohamed Elatabany, maker of Habit Forever · Updated October 2026
+
+---
+
+# Reading goal calculator
+URL: https://habitforever.app/tools/reading-goal-calculator.html
+Updated: 2026-11-18
+
+To read 12 books a year, read about 10 pages a day, or roughly 11 minutes at an average adult reading speed; 24 books takes about 20 pages (23 minutes) and 52 books about 43 pages (49 minutes). That assumes 300-page books with 275 words a page. Change any number below and the others follow.
+
+Type in any of the three boxes; the other two update.
+
+ 
+ 
+ Books to read
+ 
+ 
+ 
+ Pages a day
+ 
+ 
+ 
+ Minutes a day
+ 
+ 
+ 
+ 
+ 
+ Start date
+ 
+ 
+ 
+ Finish date
+ 
+ 
+ 
+ Days I read each week
+ 
+ 7654321
+ 
+ 
+ 
+ 
+ Book length and reading speed
+
+ 
+ 
+ Pages per book
+ 
+ 
+ 
+ Words per page
+ 
+ 
+ 
+ Reading speed (words a minute)
+ 
+ 
+ 
+ 238 words a minute is the average adult silent reading rate for non-fiction in Brysbaert’s 2019 review; fiction averaged 260. To find your own, read for 5 minutes, count the pages, and multiply by your words per page.
+
+ 
+
+ 
+ Everything is calculated in your browser; nothing is sent anywhere or saved.
+
+ 
+ The calculator needs JavaScript. The tables below have the answers for common goals.
+
+## Pages and minutes a day for common goals
+
+For one year (365 days), reading every day, with 300-page books, 275 words a page and 238 words a minute:
+
+ | | Books a year | Pages a day | Minutes a day
+
+ 
+ | 1 | 0.8 | 0.9
+
+ | 6 | 4.9 | 5.7
+
+ | 12 (one a month) | 9.9 | 11.4
+
+ | 20 | 16.4 | 19.0
+
+ | 24 (two a month) | 19.7 | 22.8
+
+ | 30 | 24.7 | 28.5
+
+ | 36 (three a month) | 29.6 | 34.2
+
+ | 50 | 41.1 | 47.5
+
+ | 52 (one a week) | 42.7 | 49.4
+
+ | 100 | 82.2 | 95.0
+
+ 
+
+Or start from the time you have. Same assumptions:
+
+ | | Minutes a day | Pages a day | Books a year
+
+ 
+ | 10 | 8.7 | 10.5
+
+ | 15 | 13.0 | 15.8
+
+ | 20 | 17.3 | 21.1
+
+ | 30 | 26.0 | 31.6
+
+ | 45 | 38.9 | 47.4
+
+ | 60 | 51.9 | 63.2
+
+ 
+
+## How it works
+
+ 
+- Reading days = days from the start date to the finish date, counting both, × days you read each week ÷ 7.
+ 
+- Pages a day = books × pages per book ÷ reading days.
+ 
+- Minutes a day = pages a day × words per page ÷ words a minute.
+
+The 300 pages per book and 275 words per page are my assumptions, not measured averages: books vary a lot, so change them to match what you read. A dense paperback can hold far more words on a page than a large-print or illustrated book. The reading speed comes from research: Marc Brysbaert’s 2019 meta-analysis of 190 studies with 18,573 participants put adult silent reading in English at 238 words a minute for non-fiction and 260 for fiction. The often-quoted 300 words a minute is higher than what most people read.
+
+## Make the goal a daily habit
+
+A yearly number is easy to set and easy to forget. A small daily number is the one you can act on tonight: 10 pages before bed is a book a month. Tie it to something you already do, like after dinner or on the train, and count pages rather than books, so a slow week with a long book still shows progress. More ideas in how to build a reading habit. If you miss a day, carry on the next; one gap doesn’t undo a habit, as I explain in what a broken streak really means.
+
+ 
+
+## FAQ
+
+How many pages a day do I need to read 52 books a year?
+About 43 pages a day, or roughly 49 minutes at 238 words a minute, if your books average 300 pages with 275 words a page. Shorter books or a faster reading speed bring that down.
+
+How many pages a day is 12 books a year?
+About 10 pages a day, roughly 11 minutes, with 300-page books. That is one book a month.
+
+What is the average reading speed?
+Brysbaert’s 2019 review of 190 studies found that adults read English silently at about 238 words a minute for non-fiction and 260 for fiction. Your own speed depends on the text and why you’re reading it.
+
+Do audiobooks count?
+That’s your call. In the calculator, set the reading speed to the narrator’s pace instead, or track minutes rather than pages.
+
+## Sources
+
+ 
+- Brysbaert, M. (2019). How many words do we read per minute? A review and meta-analysis of reading rate. Journal of Memory and Language, 109, 104047. doi.org/10.1016/j.jml.2019.104047
+
+Made by Mohamed Elatabany, maker of Habit Forever · Updated November 2026
+
+---
+
+# How much water should I drink a day?
+URL: https://habitforever.app/tools/water-intake-calculator.html
+Updated: 2026-11-18
+
+The US National Academies set an adequate intake of about 2.7 litres of total water a day for women and 3.7 litres for men, and about 80% of it usually comes from drinks: roughly 2.2 L (9 cups) for women and 3.0 L (13 cups) for men. The calculator adds what exercise and heat take out and turns it into glasses.
+
+Who it’s for
+ 
+ Woman, 19 or older
+ Man, 19 or older
+ Pregnant
+ Breastfeeding
+ 
+ 
+ 
+ Guideline
+ 
+ US National Academies (2004)
+ European Food Safety Authority (2010)
+ 
+ 
+ 
+ 
+ 
+ Exercise a day (minutes)
+ 
+ 
+ 
+ How hard
+ 
+ Light (walking, yoga)
+ Moderate (running, gym)
+ Hard, or in the heat
+ 
+ 
+ 
+ 
+ 
+ Hours working or on your feet outdoors in hot weather, not counting exercise
+ 
+ 
+ 
+ My glass holds
+ 
+ 200 mL
+ 250 mL
+ 8 US fl oz (237 mL)
+ 300 mL
+ 330 mL
+ 500 mL (a small bottle)
+ 
+ 
+ 
+ 
+ Choose your options to see a daily number. Everything is calculated in your browser; nothing is sent anywhere or saved.
+
+ 
+ The calculator needs JavaScript. The tables below have the same numbers for a sedentary day in a mild climate.
+
+This is a starting point for healthy adults, not medical advice. Thirst is a good guide for most people: the National Academies panel wrote that “the vast majority of healthy people adequately meet their daily hydration needs by letting thirst be their guide.” If you have a health condition, read when to ask a doctor first.
+
+## Daily water by guideline
+
+These are adequate intakes for a sedentary day in a temperate climate. “Total water” includes the water in food; “from drinks” counts every drink, including tea, coffee and milk. Cups are 8 US fl oz (237 mL).
+
+ US National Academies adequate intakes for water
+ | | US National Academies | Total water | From drinks | US fl oz from drinks | 250 mL glasses | 8 oz cups
+
+ 
+ | Women, 19+ | 2.7 L | 2.2 L | 74 | 8.8 | 9.3
+
+ | Men, 19+ | 3.7 L | 3.0 L | 101 | 12 | 12.7
+
+ | Pregnant | 3.0 L | 2.3 L | 78 | 9.2 | 9.7
+
+ | Breastfeeding | 3.8 L | 3.1 L | 105 | 12.4 | 13.1
+
+ 
+
+The European Food Safety Authority set lower values. EFSA gives total water only; the “from drinks” column assumes about 80% comes from drinks, the share the National Academies observed, so treat it as an estimate.
+
+ EFSA adequate intakes for water
+ | | EFSA | Total water | From drinks (est.) | US fl oz from drinks | 250 mL glasses | 8 oz cups
+
+ 
+ | Women, adults | 2.0 L | 1.6 L | 54 | 6.4 | 6.8
+
+ | Men, adults | 2.5 L | 2.0 L | 68 | 8 | 8.5
+
+ | Pregnant | 2.3 L | 1.84 L | 62 | 7.4 | 7.8
+
+ | Breastfeeding | 2.7 L | 2.16 L | 73 | 8.6 | 9.1
+
+ 
+
+The NHS keeps it simpler: aim for 6 to 8 cups or glasses of fluid a day, and it calls that “just a guide”. Water, lower-fat milk and lower-sugar drinks, including tea and coffee, all count.
+
+## How the calculator works
+
+Drinks a day = drinks from the guideline + exercise minutes ÷ 60 × sweat rate + hot hours × 0.3 L.
+
+ 
+- The guideline amount is the adequate intake from the tables above. It covers a sedentary day in a mild climate.
+ 
+- Exercise. Sweat you lose has to come back from drinks. The National Academies report lists measured sweat rates of about 0.7 to 1.0 L an hour for distance runners in temperate conditions, and 1.0 to more than 2.0 L an hour for competitive runners in the heat. I use 0.3 L for light activity, 0.7 L for moderate and 1.0 L for hard exercise or exercise in the heat. Sweat rates vary a lot between people, so the American College of Sports Medicine suggests finding your own: weigh yourself before and after exercise. Each kilogram you lose is about a litre of sweat.
+ 
+- Heat. People working in desert heat sweated 0.3 to 1.2 L an hour in the studies the National Academies reviewed. I add the low end, 0.3 L an hour, for time spent working or on your feet outdoors in hot weather. Very active people who are always in hot weather often need 6 litres of total water a day or more.
+ 
+- Glasses = litres from drinks ÷ your glass size. US fluid ounces = millilitres ÷ 29.57.
+
+## When to ask a doctor
+
+Needs vary with your body, your health and your day, and more is not always better. Talk to a doctor or nurse before changing how much you drink if:
+
+ 
+- you have a kidney or heart condition, or you take water tablets (diuretics). With some kidney disease, the NHS says you may be told to reduce your fluids, including the water in soups and yogurt;
+ 
+- you are pregnant or breastfeeding and unsure what applies to you;
+ 
+- you are caring for an older person: thirst weakens with age, so the National Academies set older adults’ intake from younger adults’ figures;
+ 
+- you have signs of dehydration that don’t go away, such as dark, strong-smelling pee, dizziness or unusual tiredness. The NHS lists when to get help on its dehydration page.
+
+ 
+
+## FAQ
+
+How much water should I drink a day?
+For healthy adults on a sedentary day in a mild climate, the US National Academies’ adequate intake works out to about 2.2 litres from drinks for women and 3.0 litres for men. The European Food Safety Authority’s total water values are lower: 2.0 litres for women and 2.5 litres for men, food included. Exercise and heat add to both.
+
+Is 8 glasses of water a day right?
+It is a reasonable rule of thumb, but not an official one. The NHS suggests 6 to 8 cups or glasses of fluid a day as a guide, and the National Academies panel said it offers no rule of thumb based on glasses.
+
+Do tea and coffee count toward my water?
+Yes. The NHS counts tea and coffee, and the National Academies panel found no convincing evidence that caffeine leads to cumulative body water deficits, so caffeinated drinks count toward your total.
+
+Does food count?
+Yes. In the National Academies’ data, about 20% of total water came from food and about 80% from drinks. That’s why the drinks figure is lower than the total water figure.
+
+Can you drink too much water?
+Yes, but it is unusual. The National Academies panel noted that people occasionally drink amounts that can be life-threatening, while calling such cases highly unusual; it set no upper limit for water. Spread drinks through the day and ask a doctor if you have a condition that affects fluids.
+
+## Sources
+
+ 
+- National Academies of Sciences, Engineering, and Medicine (2004). Report sets dietary intake levels for water, salt, and potassium (news release).
+ 
+- Institute of Medicine (2005). Dietary Reference Intakes for Water, Potassium, Sodium, Chloride, and Sulfate, chapter 4: Water (adequate intakes pp. 145–154; sweat rates p. 127). doi.org/10.17226/10925
+ 
+- EFSA Panel on Dietetic Products, Nutrition and Allergies (2010). Scientific Opinion on Dietary Reference Values for water. EFSA Journal, 8(3), 1459. doi.org/10.2903/j.efsa.2010.1459
+ 
+- NHS: Water, drinks and your health, Dehydration and Chronic kidney disease: treatment.
+ 
+- Sawka, M. N., et al. (2007). American College of Sports Medicine position stand: Exercise and fluid replacement. Medicine & Science in Sports & Exercise, 39(2), 377–390. PubMed 17277604
+
+Want to log it on your phone? See how to track water intake on iPhone.
+
+Made by Mohamed Elatabany, maker of Habit Forever · Updated November 2026

@@ -1,0 +1,117 @@
+<!--
+title: Habit Grid Maker: Year in Squares Image (Free PNG)
+description: Make a GitHub-style year-in-squares grid for any habit. Pick a colour, tap the days you did it or fill from a start date, then download a PNG.
+h1: Habit grid maker
+lead: Type a habit, pick a colour, then tap or drag across the days you did it, or fill them from a start date with a done rate. You get a year of colored squares, like a GitHub contribution graph, with your streaks counted, ready to download as a PNG.
+layout: tool
+published: 2026-11-18
+updated: 2026-11-18
+scripts: assets/grid-maker.js
+-->
+<div class="tool-box" id="grid-maker">
+  <div class="row">
+    <div class="field">
+      <label for="g-name">Habit name</label>
+      <input type="text" id="g-name" value="Morning walk" maxlength="40">
+    </div>
+    <div class="field">
+      <label for="g-color">Colour</label>
+      <div class="swatch-row">
+        <input type="color" id="g-color" value="#4caf78">
+        <button type="button" class="swatch" data-color="#4caf78" style="background:#4caf78" aria-label="Green"></button>
+        <button type="button" class="swatch" data-color="#e8455a" style="background:#e8455a" aria-label="Red"></button>
+        <button type="button" class="swatch" data-color="#5e81f4" style="background:#5e81f4" aria-label="Blue"></button>
+        <button type="button" class="swatch" data-color="#f2994a" style="background:#f2994a" aria-label="Orange"></button>
+        <button type="button" class="swatch" data-color="#a770e6" style="background:#a770e6" aria-label="Purple"></button>
+        <button type="button" class="swatch" data-color="#2fb5c9" style="background:#2fb5c9" aria-label="Teal"></button>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="field">
+      <label for="g-range">Range</label>
+      <select id="g-range">
+        <option value="w52">Last 52 weeks</option>
+        <option value="w26">Last 26 weeks</option>
+        <option value="w12">Last 12 weeks</option>
+        <option value="y2026">2026</option>
+        <option value="y2025">2025</option>
+        <option value="y2024">2024</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="g-wstart">Weeks start on</label>
+      <select id="g-wstart">
+        <option value="1">Monday</option>
+        <option value="0">Sunday</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="g-theme">Image style</label>
+      <select id="g-theme">
+        <option value="light">Light</option>
+        <option value="dark">Dark</option>
+      </select>
+    </div>
+  </div>
+  <fieldset class="fill-set">
+    <legend>Fill automatically (optional)</legend>
+    <div class="row">
+      <div class="field">
+        <label for="g-from">Started on</label>
+        <input type="date" id="g-from">
+      </div>
+      <div class="field">
+        <label for="g-rate">Done on <output id="g-rate-out" for="g-rate">80%</output> of days</label>
+        <input type="range" id="g-rate" min="5" max="100" step="5" value="80">
+      </div>
+    </div>
+    <p class="btn-row"><button type="button" class="btn secondary" id="g-fill">Fill days</button> <button type="button" class="btn secondary" id="g-clear">Clear all</button></p>
+  </fieldset>
+  <p class="small-note" id="g-help">Tap a square to switch a day on or off, or drag across squares with a mouse. With a keyboard, use the arrow keys to move and Space to switch a day.</p>
+  <div class="hg-scroll" id="g-wrap">
+    <div id="g-grid" class="hg"><p class="note">The grid maker needs JavaScript to draw your squares.</p></div>
+  </div>
+  <div id="g-result" aria-live="polite"></div>
+  <p class="btn-row"><button type="button" class="btn" id="g-png">Download PNG</button></p>
+  <noscript><p>The grid maker needs JavaScript. Nothing you make is uploaded; the image is drawn in your browser.</p></noscript>
+</div>
+
+<h2 id="reference">How full a year of squares gets</h2>
+<p>A done rate turns into squares like this. A year has 365 squares (366 in a leap year), arranged in 52 or 53 columns of weeks.</p>
+<table>
+  <thead><tr><th>Done rate</th><th>Squares filled in a year</th><th>In a 30-day month</th><th>Days a week, on average</th></tr></thead>
+  <tbody>
+    <tr><td>100%</td><td>365</td><td>30</td><td>7</td></tr>
+    <tr><td>90%</td><td>329</td><td>27</td><td>6.3</td></tr>
+    <tr><td>80%</td><td>292</td><td>24</td><td>5.6</td></tr>
+    <tr><td>70%</td><td>256</td><td>21</td><td>4.9</td></tr>
+    <tr><td>50%</td><td>183</td><td>15</td><td>3.5</td></tr>
+    <tr><td>3 days a week</td><td>156</td><td>13</td><td>3</td></tr>
+  </tbody>
+</table>
+
+<h2 id="how-it-works">How it works</h2>
+<ul>
+  <li><strong>Columns are weeks, rows are weekdays.</strong> The first column starts on the Monday (or Sunday) on or before the first day of the range, so a year needs 53 columns.</li>
+  <li><strong>Fill automatically</strong> switches on about the chosen share of days from the start date to today, at random but repeatably, so the same settings give the same grid. Days before the start date stay empty.</li>
+  <li><strong>Streaks.</strong> The current streak counts back from today, or from yesterday if today isn’t marked yet. The best streak is the longest unbroken run. Consistency is days done ÷ days so far in the range.</li>
+  <li><strong>The PNG</strong> is drawn on a canvas in your browser at double resolution, with the habit name, the counts and a small habitforever.app credit. Nothing is uploaded.</li>
+</ul>
+
+<h2 id="why-a-grid">Why a grid beats a streak counter</h2>
+<p>A streak number only tells you about the last break. A grid shows the whole pattern: the strong months, the weekend gaps, the week you were ill and came straight back. That matters, because missing a single day didn’t materially affect habit formation in Lally and colleagues’ 2010 study. One empty square in a long run of color looks like what it is, a blip. More on that in <a href="../guides/missed-a-day-habit-streak.html">what a broken streak really means</a>, and how long the squares usually take to add up to a habit in <a href="../guides/how-long-to-form-a-habit.html">how long it takes to form a habit</a>.</p>
+
+<!--CTA:Get this grid for every habit|Habit Forever draws a colored day-by-day grid like this for each habit, from your real check-ins, with current and best streaks counted for you.-->
+
+<h2 id="faq">FAQ</h2>
+<details><summary>What is a habit grid?</summary><p>A habit grid shows one square per day, colored when you did the habit, laid out in columns of weeks like a GitHub contribution graph. It makes a year of consistency visible at a glance.</p></details>
+<details><summary>Can I make a grid for a past year?</summary><p>Yes. Choose a year in the Range menu, then tap the days you did it or fill them from a start date with a done rate.</p></details>
+<details><summary>Is anything I make uploaded?</summary><p>No. The grid and the PNG are made in your browser, and nothing is sent to a server or saved.</p></details>
+<details><summary>Can I use the image anywhere?</summary><p>Yes. The PNG is yours to share or print. It carries a small habitforever.app credit in the corner.</p></details>
+
+<h2 id="sources">Sources</h2>
+<ul>
+  <li>Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., &amp; Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. <em>European Journal of Social Psychology</em>, 40(6), 998–1009. <a href="https://doi.org/10.1002/ejsp.674">doi.org/10.1002/ejsp.674</a></li>
+</ul>
+<p class="byline" style="border:0">Made by <a href="../about.html" rel="author">Mohamed Elatabany</a>, maker of Habit Forever · Updated <time datetime="2026-11-18">November 2026</time></p>

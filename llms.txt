@@ -58,8 +58,12 @@
 - [Streaks App Alternative: When to Switch (and When Not)](https://habitforever.app/compare/streaks-app-alternative.html): Streaks is excellent for Apple Watch and Health users. Here is when it is the better choice, and when a Streaks alternative like Habit Forever fits better.
 
 ## Tools
+- [Habit Cost Calculator: What Does My Habit Cost a Year?](https://habitforever.app/tools/habit-cost-calculator.html): What a daily coffee, takeaway, cigarettes, subscription or scrolling cost a week, month, year and 10 years, in money and time, and what cutting back saves.
 - [How Long to Form a Habit? Free Calculator (66-Day Rule)](https://habitforever.app/tools/habit-formation-calculator.html): Enter your start date to see when a new habit typically becomes automatic, based on research: median 66 days, range 18–254 days.
+- [Habit Grid Maker: Year in Squares Image (Free PNG)](https://habitforever.app/tools/habit-grid-maker.html): Make a GitHub-style year-in-squares grid for any habit. Pick a colour, tap the days you did it or fill from a start date, then download a PNG.
 - [Printable Habit Tracker (Free Monthly PDF Grid)](https://habitforever.app/tools/printable-habit-tracker.html): Make a free printable monthly habit tracker: add your habits, pick a month, then print it or save it as a PDF. No sign-up, nothing uploaded.
+- [Reading Goal Calculator: Pages a Day for N Books a Year](https://habitforever.app/tools/reading-goal-calculator.html): How many pages a day to read 12, 24 or 52 books a year? Turn books into pages and minutes a day, or back, with your own dates and reading speed.
+- [How Much Water Should I Drink a Day? Calculator](https://habitforever.app/tools/water-intake-calculator.html): Free water intake calculator from US National Academies, EFSA and NHS guidance. Adjusts for exercise and heat; shows litres, ounces and glasses.
 
 ## About and policies
 - [About Habit Forever and Its Developer](https://habitforever.app/about.html): Habit Forever is made by Mohamed Elatabany, an independent iOS developer. How the app is built, how these guides are written, and how to get in touch.

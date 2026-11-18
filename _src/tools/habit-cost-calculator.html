@@ -1,0 +1,120 @@
+<!--
+title: Habit Cost Calculator: What Does My Habit Cost a Year?
+description: What a daily coffee, takeaway, cigarettes, subscription or scrolling cost a week, month, year and 10 years, in money and time, and what cutting back saves.
+h1: Habit cost calculator
+lead: A habit that costs 5 a day costs 1,825 a year and 18,250 over ten years, in whatever currency you pay; an hour a day of scrolling adds up to 365 hours a year, about 15 full days. Enter your own habit to see its cost in money and time, and what cutting back would save.
+layout: tool
+published: 2026-11-18
+updated: 2026-11-18
+scripts: assets/cost-calc.js
+-->
+<div class="tool-box" id="cost">
+  <div class="row">
+    <div class="field">
+      <label for="c-preset">Habit</label>
+      <select id="c-preset">
+        <option value="coffee">Coffee from a café</option>
+        <option value="takeaway">Takeaway or delivery</option>
+        <option value="cigarettes">Cigarettes (packs)</option>
+        <option value="drinks">Energy drinks or soda</option>
+        <option value="subscription">A subscription</option>
+        <option value="scrolling">Scrolling on my phone</option>
+        <option value="custom">Something else</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="c-cur">Currency</label>
+      <select id="c-cur">
+        <option>USD</option><option>EUR</option><option>GBP</option><option>CAD</option><option>AUD</option><option>NZD</option>
+        <option>AED</option><option>SAR</option><option>QAR</option><option>KWD</option><option>EGP</option><option>INR</option>
+        <option>PKR</option><option>JPY</option><option>CNY</option><option>KRW</option><option>SGD</option><option>HKD</option>
+        <option>CHF</option><option>SEK</option><option>NOK</option><option>DKK</option><option>PLN</option><option>TRY</option>
+        <option>BRL</option><option>MXN</option><option>ZAR</option><option>NGN</option>
+      </select>
+    </div>
+  </div>
+  <div class="row">
+    <div class="field">
+      <label for="c-price">Cost each time</label>
+      <input type="number" id="c-price" min="0" step="0.01" value="5" inputmode="decimal">
+    </div>
+    <div class="field">
+      <label for="c-times">How many times</label>
+      <input type="number" id="c-times" min="0" step="0.5" value="1" inputmode="decimal">
+    </div>
+    <div class="field">
+      <label for="c-per">Per</label>
+      <select id="c-per">
+        <option value="day">day</option>
+        <option value="week">week</option>
+        <option value="month">month</option>
+        <option value="year">year</option>
+      </select>
+    </div>
+  </div>
+  <div class="row">
+    <div class="field">
+      <label for="c-mins">Minutes each time (optional)</label>
+      <input type="number" id="c-mins" min="0" max="1440" step="1" value="0" inputmode="numeric">
+    </div>
+    <div class="field">
+      <label for="c-cut">Cut back by <output id="c-cut-out" for="c-cut">50%</output></label>
+      <input type="range" id="c-cut" min="0" max="100" step="5" value="50">
+    </div>
+  </div>
+  <div id="c-result" aria-live="polite">
+    <p class="note">Enter a cost and how often. Everything is calculated in your browser; nothing is sent anywhere or saved.</p>
+  </div>
+  <noscript><p>The calculator needs JavaScript. The tables below have the totals for common amounts.</p></noscript>
+</div>
+
+<h2 id="money-table">What a habit costs over time</h2>
+<p>Amounts are in your own currency: a habit that costs 5 a day costs the same multiple whether that is dollars, euros, pounds or dirhams. A year is 365 days and a month is a twelfth of a year.</p>
+<table>
+  <thead><tr><th>Cost a day</th><th>A week</th><th>A month</th><th>A year</th><th>10 years</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>7</td><td>30.42</td><td>365</td><td>3,650</td></tr>
+    <tr><td>2</td><td>14</td><td>60.83</td><td>730</td><td>7,300</td></tr>
+    <tr><td>3</td><td>21</td><td>91.25</td><td>1,095</td><td>10,950</td></tr>
+    <tr><td>4.50</td><td>31.50</td><td>136.88</td><td>1,642.50</td><td>16,425</td></tr>
+    <tr><td>5</td><td>35</td><td>152.08</td><td>1,825</td><td>18,250</td></tr>
+    <tr><td>10</td><td>70</td><td>304.17</td><td>3,650</td><td>36,500</td></tr>
+    <tr><td>15</td><td>105</td><td>456.25</td><td>5,475</td><td>54,750</td></tr>
+    <tr><td>20</td><td>140</td><td>608.33</td><td>7,300</td><td>73,000</td></tr>
+  </tbody>
+</table>
+
+<h2 id="time-table">What a habit costs in time</h2>
+<p>Time is the cost people forget. “Waking days” assumes 16 waking hours a day.</p>
+<table>
+  <thead><tr><th>Time a day</th><th>Hours a year</th><th>Full days a year</th><th>Waking days a year</th></tr></thead>
+  <tbody>
+    <tr><td>15 minutes</td><td>91</td><td>3.8</td><td>5.7</td></tr>
+    <tr><td>30 minutes</td><td>183</td><td>7.6</td><td>11.4</td></tr>
+    <tr><td>1 hour</td><td>365</td><td>15.2</td><td>22.8</td></tr>
+    <tr><td>2 hours</td><td>730</td><td>30.4</td><td>45.6</td></tr>
+    <tr><td>3 hours</td><td>1,095</td><td>45.6</td><td>68.4</td></tr>
+    <tr><td>4 hours</td><td>1,460</td><td>60.8</td><td>91.2</td></tr>
+  </tbody>
+</table>
+
+<h2 id="how-it-works">How it works</h2>
+<ul>
+  <li><strong>Times a year</strong> = how many times × 365 for a day, × 365 ÷ 7 for a week, × 12 for a month, or × 1 for a year.</li>
+  <li><strong>Cost a year</strong> = cost each time × times a year. A week is that ÷ (365 ÷ 7), a month ÷ 12, and 10 years × 10.</li>
+  <li><strong>Time a year</strong> = minutes each time × times a year ÷ 60, in hours; ÷ 24 for full days, ÷ 16 for waking days.</li>
+  <li><strong>Cutting back by X%</strong> saves X% of each figure, because the cost scales with how often you do it.</li>
+</ul>
+<p>It’s simple arithmetic on purpose. It ignores price rises, and it doesn’t add interest you might earn by saving the money instead, so long-run totals are, if anything, on the low side.</p>
+
+<h2 id="cut-back">Cutting back without quitting</h2>
+<p>You don’t have to quit to save. A habit you do half as often costs half as much, and a limit you can keep, such as “two coffees a day” or “no more than 30 minutes of social media”, often lasts longer than an all-or-nothing rule. Pick a number a little below what you do now, count it every day, and lower it once it feels easy. My guide on <a href="../guides/track-a-habit-you-want-to-do-less.html">tracking a habit you want to do less</a> goes into how. If you slip one day, carry on the next; a single miss doesn’t undo the habit, as I explain in <a href="../guides/missed-a-day-habit-streak.html">what a broken streak really means</a>.</p>
+
+<!--CTA:Set a limit, not a ban|In Habit Forever, give a habit a “Stay under” goal, like 2 coffees or 30 minutes a day, count it as you go, and see the days you stayed within it.-->
+
+<h2 id="faq">FAQ</h2>
+<details><summary>How much does a coffee a day cost a year?</summary><p>Multiply the price by 365. At 5 a cup in your currency, one coffee a day is 1,825 a year and 18,250 over ten years. Two a day doubles it.</p></details>
+<details><summary>How much time does an hour of scrolling a day add up to?</summary><p>365 hours a year, which is about 15 full days or nearly 23 waking days of 16 hours.</p></details>
+<details><summary>Does the calculator include inflation or interest?</summary><p>No. It multiplies today’s cost by how often you pay it, so real long-run totals are usually higher.</p></details>
+<details><summary>Is my data saved?</summary><p>No. The numbers stay in your browser; nothing is uploaded or stored.</p></details>
+<p class="byline" style="border:0">Made by <a href="../about.html" rel="author">Mohamed Elatabany</a>, maker of Habit Forever · Updated <time datetime="2026-11-18">November 2026</time></p>
