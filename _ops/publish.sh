@@ -9,8 +9,9 @@ MSG="${1:-Update site}"
 python3 "$SITE/_ops/build.py"
 python3 "$SITE/_ops/validate.py"
 git -C "$DEST" pull --ff-only -q
-# Mirror everything except the Pages repo's own files (git, README, CNAME, verification files).
-rsync -a --delete --exclude .git --exclude README.md --exclude CNAME --exclude 'google*.html' --exclude BingSiteAuth.xml "$SITE/" "$DEST/"
+# Normally the GitHub Action (.github/workflows/deploy-site.yml) does this on every push to main.
+# Mirror everything except the Pages repo's own git and README (CNAME and verification files live in site/).
+rsync -a --delete --exclude .git --exclude README.md --exclude __pycache__ --exclude .DS_Store "$SITE/" "$DEST/"
 cd "$DEST"
 git add -A
 if git diff --cached --quiet; then echo "nothing to publish"; exit 0; fi
