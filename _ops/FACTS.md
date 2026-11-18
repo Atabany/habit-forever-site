@@ -39,9 +39,8 @@ Never print prices. Never mention the developer's other apps.
     clean and beautiful, and it's very easy to use…" — App Store China, Apr 2026
 - Not supported (never claim): Apple Watch app, Mac app, Android, web app, iCloud sync, Apple Health
   integration, social/sharing challenges, AI features, ads. iCloud sync re-checked 2026-11-18: the store is
-  `cloudKitDatabase: .none` (AppModelContainer.swift). A developer reply on the App Store said "we added iCloud
-  sync"; that is not true of this app, so never repeat it.
-- Other habit apps by the same developer exist; never name or link them (Apple 4.3, distinct brand).
+  `cloudKitDatabase: .none` (AppModelContainer.swift).
+- Never name or link any other app by the same developer (Apple 4.3, distinct brand).
 
 ## Fact block (verbatim)
 Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed
