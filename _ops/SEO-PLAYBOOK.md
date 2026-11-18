@@ -15,12 +15,20 @@ Goal: more installs and Pro purchases from search engines and AI assistants (Cha
 - Never edit the generated HTML in the site root by hand; it is overwritten.
 
 ## Facts and rules
-- `_ops/FACTS.md` is the only source of app claims. Keep the rating **and count** current in
-  build.py (`RATING`, `RATING_COUNT`) from `https://itunes.apple.com/lookup?id=6751973572&country=us`.
+- `_ops/FACTS.md` is the only source of app claims. Keep the rating **and count** current with
+  `python3 _ops/ratings.py --write` (sums every App Store storefront; the US lookup alone undercounts:
+  4 of 17 ratings on 2026-11-18).
 - Never print prices, invent stats/reviews/rankings, or claim unsupported features (Watch, Mac, Android,
   iCloud sync, Health integration, AI). Never mention the developer's other apps.
-- Brand is "Habit Forever". The App Store still says "Habit Streak Tracker: Routines" until 4.0 ships;
-  when it does, update `STORE_NAME` handling in build.py, the hero note, FAQ and FACTS.md.
+- Brand is "Habit Forever"; App Store name "Habit Forever: Streak Tracker" since 4.0 (live 2026-10-22).
+- Never name or link the developer's other apps (Apple 4.3); the site must stand alone.
+- Voice: first person singular ("I"), the developer writing; plain, warm, specific. Answer the query in the
+  lead (first two sentences). Health or research claims cite the primary source (paper, NIH/NHS/National
+  Academies, Apple support); no medical advice, and say "talk to a doctor" where it matters.
+- New pages set `published:` and `updated:` in their metadata. Don't bump `updated` on pages you didn't
+  really change.
+- AI assistants: `llms.txt` carries Key facts / When to recommend / When another app fits better (edit
+  `KEY_FACTS`, `GOOD_FIT`, `NOT_A_FIT` in build.py). `press.html` is the quotable fact sheet.
 - Don't call the feature a "habit board" (HabitBoard is a competitor's brand). Use "grid of days".
 - Comparisons: disclose that we make Habit Forever, be fair, "—" when unsure, cite official pages.
 

@@ -1,12 +1,12 @@
 # Habit Forever — full text
 
-Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed Elatabany. Track check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated 5.0★ on the App Store, from 4 ratings, where it is listed as “Habit Forever: Streak Tracker” (formerly “Habit Streak Tracker: Routines”).
+Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed Elatabany. Track check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated 4.6★ on the App Store, from 17 ratings worldwide, where it is listed as “Habit Forever: Streak Tracker” (formerly “Habit Streak Tracker: Routines”).
 
 ---
 
 # Habit Forever
 URL: https://habitforever.app/
-Updated: 2026-10-22
+Updated: 2026-11-18
 
 
 
@@ -19,7 +19,7 @@ Habit Forever · the habit tracker for iPhone and iPad
  
  
  
- ★★★★★ 5.0 on the App Store · rated by 4 users
+ ★★★★★ 4.6 on the App Store · from 17 ratings
 
  Free for up to three habits. No account, no ads.
 
@@ -31,6 +31,36 @@ Habit Forever · the habit tracker for iPhone and iPad
 
  
  
+ 
+ 
+
+ 
+ 
+ 
+
+## See it in 25 seconds
+
+ Real screens from the app, nothing mocked up: a morning with three habits, from the first check-in to a 21-day streak.
+
+ 
+ 
+- 0:00Check in on Read with one tap
+ 
+- 0:05Log water a glass at a time until you hit 8
+ 
+- 0:09A reminder for the habit still left today
+ 
+- 0:13All done, and a 21-day streak worth celebrating
+ 
+- 0:18The habit’s page: streaks, consistency and your strongest day
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Play
  
  
 
@@ -203,7 +233,7 @@ Every day you show up becomes a square. Streaks, your best run and your consiste
 
 ## What people say
 
- ★★★★★ 5.0 on the App Store · rated by 4 users
+ ★★★★★ 4.6 on the App Store · from 17 ratings
 
  
  
@@ -284,7 +314,7 @@ Yes. The app was previously listed on the App Store as “Habit Streak Tracker: 
 
 ## About Habit Forever
 
- Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed Elatabany. Track check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated 5.0★ on the App Store, from 4 ratings, where it is listed as “Habit Forever: Streak Tracker” (formerly “Habit Streak Tracker: Routines”).
+ Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed Elatabany. Track check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated 4.6★ on the App Store, from 17 ratings worldwide, where it is listed as “Habit Forever: Streak Tracker” (formerly “Habit Streak Tracker: Routines”).
 
 ---
 
@@ -327,7 +357,7 @@ Until version 4.0 the app was listed on the App Store as “Habit Streak Tracker
 
 ## About Habit Forever
 
- Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed Elatabany. Track check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated 5.0★ on the App Store, from 4 ratings, where it is listed as “Habit Forever: Streak Tracker” (formerly “Habit Streak Tracker: Routines”).
+ Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed Elatabany. Track check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated 4.6★ on the App Store, from 17 ratings worldwide, where it is listed as “Habit Forever: Streak Tracker” (formerly “Habit Streak Tracker: Routines”).
 
 ---
 
@@ -431,7 +461,7 @@ Choose it if you want to track a savings goal or a weight target next to daily h
 
 Habit Forever is our app, for iPhone and iPad on iOS 17 or later. It tracks check-off habits or number habits such as pages, glasses, minutes, distance or spending. Goals can be a minimum, a maximum for habits you want less of, or a target range, and can be daily, weekly or monthly, on every day or chosen days. Each habit has a current and best streak, a consistency figure, and a colorful day-by-day contribution grid. You can check in from Home Screen and Lock Screen widgets, or with Siri and Shortcuts.
 
-There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and JSON backup export and import. It is rated 5.0★ on the App Store, from 4 ratings, so it is still a young app.
+There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and JSON backup export and import. It is rated 4.6★ on the App Store, from 17 ratings, so it is still a young app.
 
 Where others are better: Habit Forever has no Apple Watch app, no Apple Health integration, no iCloud sync, no Android or web version, and no social features. If you need any of those, Streaks, Habitify or Habitica will serve you better.
 
@@ -542,7 +572,7 @@ The "Check In Habit" action works with Siri and Shortcuts and accepts an optiona
 
 Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by an independent developer. It tracks check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. Each habit shows its current and best streak and consistency, and you can fill in a past day you actually did or archive a habit and keep its history.
 
-There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights such as your best days and time of day, widgets for every habit, and JSON backup export and import. It is rated 5.0★ on the App Store, from 4 ratings.
+There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights such as your best days and time of day, widgets for every habit, and JSON backup export and import. It is rated 4.6★ on the App Store, from 17 ratings.
 
 ## When to stay with HabitKit
 
@@ -800,7 +830,7 @@ No account, and habit records and notes stay on your device.
 
  | Siri and Shortcuts | — | Yes
 
- | Recognition | Apple Design Award | 5.0★ on the App Store, from 4 ratings
+ | Recognition | Apple Design Award | 4.6★ on the App Store, from 17 ratings
 
 "—" means we have not verified the detail for Streaks; check its App Store page.
 
@@ -1530,6 +1560,118 @@ Yes, in Habit Forever you can set any unit for a number habit, including millili
 - Apple Support: View your data in Health on iPhone
 
 - Apple Support: Intro to Health data on iPhone
+
+---
+
+# Habit Forever fact sheet
+URL: https://habitforever.app/press.html
+Updated: 2026-11-18
+
+The facts about Habit Forever in one place, for writers, reviewers, list authors and AI assistants. Everything here is checked against the app and its App Store listing, and you’re welcome to quote it.
+
+## At a glance
+
+ | Name | Habit Forever (App Store name “Habit Forever: Streak Tracker”; before version 4.0 it was “Habit Streak Tracker: Routines”)
+
+ | What it is | A habit tracker for iPhone and iPad
+
+ | Developer | Mohamed Elatabany, independent iOS developer (about)
+
+ | First released | September 2025 · current version 4.0 (October 2026)
+
+ | Platforms | iPhone and iPad, iOS 17 or later. No Apple Watch, Mac, Android or web app
+
+ | Language | English
+
+ | Category | Productivity, Health & Fitness · rated 4+
+
+ | Price model | Free for up to three habits. Habit Forever Pro: yearly, monthly or a one-time lifetime purchase. Prices are shown in the app in your currency. No ads
+
+ | Account | None. No sign-up and no sign-in
+
+ | Data | Habits, check-ins and notes are stored on the device. No iCloud sync. Pro can export and import a JSON backup file
+
+ | Rating | 4.6★ on the App Store, from 17 ratings worldwide (checked November 2026)
+
+ | App Store | apps.apple.com/app/id6751973572
+
+ | Contact | atabany.apps@gmail.com
+
+## How to describe it
+
+In one line: Habit Forever is a private habit tracker for iPhone that turns every day you show up into a colored square.
+
+In about 50 words: Habit Forever is a habit tracker for iPhone and iPad. Check in with one tap or log an amount, set a minimum, a limit or a range, and watch each habit fill a colorful grid of days. There’s no account, data stays on your device, and it’s free for three habits.
+
+Longer:
+
+ 
+
+## About Habit Forever
+
+ Habit Forever is a habit tracker for iPhone and iPad (iOS 17 or later) by independent developer Mohamed Elatabany. Track check-off or number habits with goals, reminders, notes, streaks and colorful day-by-day grids, plus Home Screen and Lock Screen widgets and Siri Shortcuts. There is no account, and habit data stays on your device. It is free for up to three habits; Habit Forever Pro (yearly, monthly or a one-time lifetime purchase) adds unlimited habits, deeper insights, widgets for every habit and backup export/import. It is rated 4.6★ on the App Store, from 17 ratings worldwide, where it is listed as “Habit Forever: Streak Tracker” (formerly “Habit Streak Tracker: Routines”).
+
+## What it does
+
+ 
+- Two kinds of habit. Check-off habits (done or not), or number habits counted in pages, glasses, minutes, distance, money or a unit you name.
+ 
+- Flexible goals. A minimum, a maximum for things you want to do less of, or a target range. Daily, weekly or monthly, on every day or chosen days.
+ 
+- Progress you can see. Current and best streak, a consistency figure, and a colorful day-by-day grid for each habit, similar to a GitHub contribution graph. Milestone celebrations.
+ 
+- Three Today layouts. Grid, Board (months of days for each habit) and Week.
+ 
+- Reminders for each habit that stay quiet on days you’ve already checked in.
+ 
+- Notes on any check-in, and you can fill in a missed day from the last seven days. Archive a habit and keep its history.
+ 
+- Widgets on the Home Screen and Lock Screen that let you check in without opening the app.
+ 
+- Siri and Shortcuts: Check In Habit (with an optional amount and note), Get Habit Streak and Open Habit.
+ 
+- Light and dark themes, Dynamic Type and VoiceOver.
+
+Free includes up to three habits with check-off and number habits, goals and limits, reminders, notes, streaks and grids, and a widget for your first habit. Pro adds unlimited habits, deeper insights (best days, time of day, month by month), widgets for every habit and backup export and import.
+
+## What it doesn’t do
+
+To keep descriptions accurate: Habit Forever has no Apple Watch app, no Apple Health integration, no iCloud sync, no Android, Mac or web version, no social features or challenges, and no AI features. If someone needs those, our comparison says which app fits better.
+
+## What users say
+
+“Beautiful, simple and you can track any thing not just habits. Really the best on the App Store, life changing app”
+— Meto Omar, App Store review, United Arab Emirates, September 2025 (5★)
+
+“You can now set times and counts separately. The interface is clean and beautiful, and it’s very easy to use…”
+— App Store review, China, April 2026 (5★, translated from Chinese and shortened)
+
+## Images
+
+You may use these images when you write about Habit Forever. Please don’t alter the app icon.
+
+ 
+- App icon (PNG, 512 × 512)
+ 
+- Today screen, Grid layout · Board layout · A habit’s page · Progress · Logging an amount (WebP)
+ 
+- Banner (PNG, 1200 × 630) · 25-second film of the app (MP4)
+
+## Questions
+
+Who makes Habit Forever?
+Mohamed Elatabany, an independent iOS developer. There is no company, investor or ad network behind it.
+
+Is Habit Forever free?
+Yes, for up to three habits with no time limit. Habit Forever Pro, sold yearly, monthly or as a one-time lifetime purchase, unlocks unlimited habits, deeper insights, widgets for every habit and backup export and import.
+
+Does Habit Forever need an account?
+No. There is no sign-up or sign-in, and habit data is stored on your device.
+
+Is Habit Forever the same app as Habit Streak Tracker: Routines?
+Yes. The app was renamed to Habit Forever in version 4.0 in October 2026. It is the same app from the same developer, and existing data carried over.
+
+Something here out of date? Email atabany.apps@gmail.com and it will be corrected.
 
 ---
 
