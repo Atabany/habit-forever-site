@@ -29,7 +29,7 @@ STORE_NAME = "Habit Forever: Streak Tracker"
 FORMER_NAME = "Habit Streak Tracker: Routines"
 AUTHOR = "Mohamed Elatabany"
 UPDATED = "2026-10-22"
-CSS_VERSION = 2
+CSS_VERSION = 3
 # Worldwide App Store rating (sum of every storefront). Refresh with: python3 _ops/ratings.py --write
 RATING, RATING_COUNT = "4.6", 17
 RATING_CHECKED = "2026-11-18"

@@ -1012,7 +1012,7 @@ Start from the goal you want and work backwards. Book lengths vary a lot, so the
 
  | 52 (one a week) | 15,600 | about 43
 
-The formula is simple: books per year × pages per book ÷ 365. A book a month is just 10 pages a day. That is the surprising part for most people: the gap between "I never read" and "I read a book a month" is a quarter of an hour.
+The formula is simple: books per year × pages per book ÷ 365. A book a month is just 10 pages a day. That is the surprising part for most people: the gap between "I never read" and "I read a book a month" is a quarter of an hour. The free reading goal calculator does the math for any goal, book length and reading speed.
 
 ### How long does a page take?
 
@@ -1168,7 +1168,7 @@ Habit Forever has no special "stack" feature; it does not need one. A stack is a
 
 - Use a number when the habit grows. Start with a check-off, then switch to a number goal such as at least 2 minutes or 5 pages when the tiny version is easy.
 
-The free version tracks up to three habits, which is a good size for a first stack. Each habit keeps its own streak and day-by-day grid, so you can see which link in the chain is solid and which keeps slipping.
+The free version tracks up to three habits, which is a good size for a first stack. Each habit keeps its own streak and day-by-day grid, so you can see which link in the chain is solid and which keeps slipping. To picture a year of a stack, try the habit grid maker.
 
 ## Common mistakes
 
@@ -1769,7 +1769,7 @@ The built-in phrases always ask which habit. To skip that question, make a short
 
 - Name the shortcut "Log water".
 
-Now "Hey Siri, log water" checks it in. The same shortcut can go on the Action button or Back Tap, so one press logs a glass.
+Now "Hey Siri, log water" checks it in. The same shortcut can go on the Action button or Back Tap, so one press logs a glass. Not sure how many glasses to aim for? The water intake calculator gives you a starting point.
 
  
 
@@ -2055,7 +2055,7 @@ A note before we start: this is about everyday habits. If you are trying to stop
 
 Screen time is the one habit iPhone measures for you. Screen Time in Settings shows your daily average and how often you pick up your phone, and Time Allowances (App Limits on older iOS versions) let you set a daily budget for app categories such as social media or games. If screen time is your target, set that up first: it measures automatically, which no tracker can match.
 
-For most other habits, coffee, sweets, spending, there is nothing built in that counts them. A tally in the Notes app or on paper works: one mark per cup, and a line under the day when you stayed under your limit. Our printable habit tracker gives you a monthly grid for that.
+For most other habits, coffee, sweets, spending, there is nothing built in that counts them. A tally in the Notes app or on paper works: one mark per cup, and a line under the day when you stayed under your limit. Our printable habit tracker gives you a monthly grid for that, and the habit cost calculator shows what a habit costs you in a year.
 
 ## What research says about breaking a habit
 
@@ -2314,7 +2314,7 @@ For a habit with a weekly goal, the streak is counted in weeks, not days. Each w
 
 - The best streak is in weeks too, and the consistency figure becomes the share of recent weeks in which you reached the goal.
 
-- On the day-by-day grid, a week you completed is filled in as a whole week, so a run of good weeks reads as one solid band of color.
+- On the day-by-day grid, a week you completed is filled in as a whole week, so a run of good weeks reads as one solid band of color. You can draw a grid like this for any habit with the free habit grid maker.
 
 Siri tells you the same thing: ask "What's my streak in Habit Forever" and the answer comes in weeks. See how to log habits with Siri and Shortcuts.
 
