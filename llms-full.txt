@@ -1242,7 +1242,7 @@ I designed Habit Forever to be quick and forgiving, and the free version covers 
 
 - Fill in what you forgot. Did it yesterday but forgot to log? You can fill in a missed day from the last 7 days.
 
-Then look at the grid, not just the streak. Each habit has a colorful day-by-day grid and a consistency figure next to the current and best streak. Twenty-two filled squares out of thirty with a few gaps is a habit that is working, and the grid shows it that way.
+Then look at the grid, not just the streak. Each habit has a colorful day-by-day grid and a consistency figure next to the current and best streak. Twenty-two filled squares out of thirty with a few gaps is a habit that is working, and the grid shows it that way. If streaks themselves are the problem, see how to track consistency instead of streaks.
 
 There is no account to create, and your habits and notes stay on your device.
 
@@ -1423,6 +1423,108 @@ Yes, in Habit Forever a tap on the widget logs the fixed amount you chose for a 
 - Apple Support: Add, edit, and remove widgets on iPhone
 
 - Apple Support: Create a custom Lock Screen on iPhone
+
+---
+
+# Habit tracker without streaks: how to track consistency instead
+URL: https://habitforever.app/guides/habit-tracker-without-streaks.html
+Updated: 2026-11-19
+
+If streaks stress you out, track consistency instead: the share of your planned days you actually did, such as 24 of the last 30. One bad day barely moves that number but sends a streak back to zero. On iPhone, Reminders and paper keep no streak at all, and a tracker with a consistency percentage and rest days gives you the record without the all-or-nothing pressure.
+
+A streak is a lovely motivator right up until it breaks. Then a 41-day run becomes "0", and for a lot of people that zero is the moment they quit the habit, or the app, altogether. Here is why consistency is the better number to watch, how to track it with what is already on your iPhone, and, honestly, where Habit Forever fits.
+
+## Why consistency beats a streak
+
+A streak answers one question: have you done this every single time since your last miss? Consistency answers a more useful one: how often do you do it?
+
+- A miss costs a little, not everything. Do a habit 24 of 30 days and you are at 80%. Miss tomorrow and you are still around 77%. The same miss would reset a streak to zero.
+
+- It matches how habits form. In the best-known study of real-world habit formation, Phillippa Lally and colleagues found that missing a single opportunity did not materially affect how automatic a behavior became. Repetition over time matters; perfection does not. I wrote more about this in what a broken streak really means.
+
+- It is honest about rest. If you only plan to run three days a week, the other four should not count as failures. A good consistency number only counts the days you planned.
+
+Streaks are not bad; plenty of people love protecting a long run. The problem is a streak as the only measure. If a broken one makes you want to give up, the number is working against you.
+
+## Track habits without streaks using built-in apps
+
+Your iPhone already has two streak-free options.
+
+Reminders. Create a reminder such as "Stretch", open its details, give it a date and time, and set it to repeat daily or on custom days. Tick it off when you are done and it comes back next time. Reminders keeps no streak at all, so there is nothing to break. The trade-off: it keeps no useful history either, and a missed day just sits there overdue. Apple also notes that future instances of a repeating reminder can only be completed after the current one is marked complete, which makes catching up after a miss awkward.
+
+Paper or Notes. A grid with one square per day is the classic streak-free tracker. At the end of the month, count the filled squares and divide by the days you planned: that is your consistency. Our printable habit tracker gives you a ready-made monthly grid, and a table in the Notes app works the same way on your phone. The trade-off: nothing reminds you, and you do the maths yourself.
+
+For one or two habits, either is enough. For more built-in options, see how to track habits on iPhone.
+
+## What to look for in a streak-free habit tracker app
+
+When you want the record without the maths, look for an app that gives you these:
+
+- A consistency or completion percentage for each habit, over a recent window such as 30 days.
+
+- Scheduled rest days that are never counted as misses.
+
+- Weekly goals for habits like "the gym 3 times a week", so the week counts, not each day.
+
+- A visual history, such as a grid of days, where one empty square sits in a field of color instead of erasing it.
+
+- A way to fill in a day you did but forgot to log, so your record stays accurate.
+
+## How Habit Forever handles streaks and consistency
+
+I make Habit Forever, so take this as the developer's account, and I will be straight with you: it is not a streak-free app. Its App Store name is literally "Habit Forever: Streak Tracker", and every habit shows a current and a best streak. There is no setting to hide them. What I did was design it so the streak is never the only story:
+
+- Consistency next to the streak. Each habit's page shows its streak, its best streak, and the percentage of its planned days you completed in the last 30 days. Days you did not schedule are left out of that figure, so rest days never lower it.
+
+- A consistency score across all habits. The Progress tab leads with one consistency percentage for all your habits over the last week, month or year, how many points it moved since the period before, your check-ins and your perfect days.
+
+- Days off never break a streak. Set a habit to weekdays or to chosen days, and the other days show as rest days. A Monday, Wednesday, Friday habit is judged only on those three days.
+
+- Weekly goals. A goal such as "3 runs each week" counts its streak in weeks, and the week in progress is never held against you. See how to track a "3 times a week" habit.
+
+- A colorful day-by-day grid for every habit, in the style of a GitHub contribution graph. You can draw one for free with the habit grid maker.
+
+- Fill in a missed day from the last 7 days if you did the habit but forgot to log it.
+
+So if streaks bother you because one miss wipes out everything, Habit Forever is built for exactly that: the reset still happens, but your consistency, your best streak and your grid all stay. If you want no streak number anywhere on screen, it is not the right app, and Reminders or a paper grid will serve you better.
+
+It runs on iPhone and iPad with iOS 17 or later, needs no account, and keeps your habit data on your device. It is free for up to three habits; Habit Forever Pro adds unlimited habits, deeper insights such as your best days and time of day, widgets for every habit, and backup export and import. It is 4.6★ on the App Store, from 17 ratings.
+
+ 
+
+## Tips for tracking consistency without the pressure
+
+- Pick a target percentage, not perfection. Aiming for 80% of your planned days leaves room for illness, travel and bad weeks, and 80% sustained for months is a strong habit.
+
+- Schedule the days you will really do it. A habit planned for five days and done on five is 100%. The same habit planned for seven looks like failure.
+
+- Make the habit small on hard days. One page, one push-up, two minutes. A tiny version still counts, and it keeps the cue alive. Tying it to something you already do helps too; see habit stacking.
+
+- Expect weeks to months. Habits take longer than 21 days to feel automatic; see how long it takes to form a habit. If all-or-nothing thinking is part of ADHD for you, read what helps in a habit tracker for ADHD.
+
+## FAQ
+
+Is there a habit tracker without streaks on iPhone?
+The built-in Reminders app and a paper or Notes grid keep no streak at all, and some apps focus on a consistency percentage instead, while Habit Forever shows streaks alongside a 30-day consistency figure and rest days that never break them.
+
+Is consistency better than a streak?
+For most people it is the more useful number, because one miss barely changes it, and research by Lally and colleagues found that missing a single opportunity did not materially affect habit formation.
+
+How do I calculate habit consistency?
+Divide the days you did the habit by the days you planned to do it in a period, for example 24 done out of 30 planned is 80%.
+
+Can I hide streaks in Habit Forever?
+No, every habit shows a current and best streak, but each habit also shows its consistency over the last 30 days, and scheduled days off never break a streak.
+
+## Sources
+
+- Lally P, van Jaarsveld CHM, Potts HWW, Wardle J. How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 2010.
+
+- Apple Support: Create reminders on iPhone
+
+- Apple Support: Use reminders on iPhone
+
+- Habit Forever on the App Store
 
 ---
 
@@ -1776,6 +1878,8 @@ Clear, practical answers about building habits and tracking them on iPhone. Buil
 
 - GuideHow to add a habit tracker widget to your iPhoneHow to add a habit tracker widget to your iPhone Home Screen or Lock Screen in iOS 17, 18 and 26, and check in on a habit with one tap.
 
+- GuideHabit tracker without streaks: how to track consistency insteadStreak anxiety is real. How to track habits on iPhone by consistency instead of streaks: Reminders, paper, and an app that counts rest days fairly.
+
 - GuideA habit tracker without a subscriptionHabit trackers you can use without a subscription on iPhone: free built-in options, apps you pay for once, and how to choose three habits on a free tier.
 
 - GuideHow long does it take to form a habit?Research puts the median at about 59 to 66 days, with a huge range from a few days to almost a year. What the studies found and why 21 days is a myth.
@@ -1984,7 +2088,7 @@ If you went to the gym 26 of 30 planned days, you did very well, even if your cu
 
 We make Habit Forever, and we designed it so one miss does not wipe out the story of your effort.
 
-- Current and best streak. Each habit shows both. When your current streak resets, your best streak stays, so you can see what you have already proved you can do.
+- Current and best streak. Each habit shows both. When your current streak resets, your best streak stays, so you can see what you have already proved you can do. If streaks stress you out, read how to track consistency instead of streaks.
 
 - Consistency. Each habit shows how often you hit your planned days over recent weeks. Days you did not schedule the habit for are not counted against you.
 
@@ -2399,7 +2503,7 @@ For a habit with a weekly goal, the streak is counted in weeks, not days. Each w
 
 - You choose when a week starts. In Settings, "Week starts on" can be Monday, Sunday or Saturday, and the weekly count follows it.
 
-- The best streak is in weeks too, and the consistency figure becomes the share of recent weeks in which you reached the goal.
+- The best streak is in weeks too, and the consistency figure becomes the share of recent weeks in which you reached the goal (more on that in tracking consistency instead of streaks).
 
 - On the day-by-day grid, a week you completed is filled in as a whole week, so a run of good weeks reads as one solid band of color. You can draw a grid like this for any habit with the free habit grid maker.
 
